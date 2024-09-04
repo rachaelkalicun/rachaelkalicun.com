@@ -1,0 +1,107 @@
+/* If you need to add @import statements, do so up here */
+
+@import "jit-refresh.css"; /* triggers frontend rebuilds */
+
+/* Set up Tailwind imports */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --body-background: #f4f6f5;
+  --body-color: #3a474d;
+  --heading-color: #3a474d;
+  --action-color: #b64a70;
+}
+
+body {
+  background: var(--body-background);
+  color: var(--body-color);
+  font-family: "Noto Sans", sans-serif;
+  font-optical-sizing: auto;
+  line-height: 1.5;
+  padding: 20px;
+}
+
+a {
+  color: var(--action-color);
+  text-decoration: underline;
+  text-decoration-color: #b64a70;
+}
+
+h1 {
+  margin: 1rem 0 3rem;
+  text-align: center;
+  font-weight: 300;
+  font-size: 2.5rem;
+  color: var(--heading-color);
+  line-height: 1.2;
+}
+
+body > header {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+body > nav ul {
+  margin: 2rem 0;
+  padding: 0;
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  gap: 1.5rem;
+  font-size: 1.3rem;
+  font-weight: bold;
+}
+
+body > nav a {
+  text-decoration: none;
+}
+
+main {
+  max-width: 65rem;
+  margin: 1rem auto;
+}
+
+footer {
+  text-align: center;
+}
+
+hr {
+  border: none;
+  border-top: 2px dotted #bbb;
+  margin: 3rem 0;
+}
+
+h1,
+.h1 {
+  @apply text-4xl font-semibold mb-4 mt-8;
+
+}
+
+h2,
+.h2 {
+  @apply text-3xl font-medium mb-3 mt-6;
+}
+
+h3,
+.h3 {
+  @apply text-2xl font-bold mb-2 mt-4;
+}
+
+code {
+  @apply px-4 py-2 font-bold;
+}
+
+p {
+  @apply mb-4;
+}
+
+ul,
+ol {
+  @apply mb-4;
+}
+
+ol {
+  @apply list-decimal mb-4 ml-8;
+}
