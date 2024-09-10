@@ -1,8 +1,8 @@
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <% resource_title = strip_html(strip_newlines(title)) %>
-<title><% if resource_title != "Index" %><%= resource_title %> | <%= metadata.title %><% else %><%= metadata.title %>: <%= metadata.tagline %><% end %></title>
-
+<title><% if resource_title != "Home" %><%= resource_title %> | <%= metadata.title %><% else %><%= metadata.title %><% end %></title>
+<link rel="icon" type="image/x-icon" href="/images/rachael.jpg">
 <meta name="description" content="<%= metadata.description %>" />
 
 <link rel="stylesheet" href="<%= asset_path :css %>" />
