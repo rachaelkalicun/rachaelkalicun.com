@@ -19,8 +19,8 @@ body {
   color: var(--body-color);
   font-family: "Noto Sans", sans-serif;
   font-optical-sizing: auto;
-  font-size: 14px;
-  line-height: 1.5;
+  font-size: 15px;
+  line-height: 1.6;
   padding: 20px;
 }
 
@@ -34,7 +34,6 @@ h1 {
   margin: 1rem 0 3rem;
   text-align: center;
   font-weight: 300;
-  color: var(--heading-color);
   line-height: 1.2;
 }
 
@@ -45,7 +44,6 @@ body > header {
 }
 
 header a {
-  color: var(--body-color);
   text-decoration: none;
 }
 

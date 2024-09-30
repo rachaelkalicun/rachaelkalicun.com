@@ -1,18 +1,15 @@
 <header class="w-full">
-    <%= @resource%>
     <div class="">
       <a href="/">
         <img class="w-[75px] mx-auto my-0 rounded-full border-2 border-white inline-block" src="<%= relative_url '/images/rachael.jpg' %>" alt="Logo" />
       </a>
-      <a href="/">
-        <div class="text-xs uppercase font-semibold mt-1">The musings of</div>
-        <% if resource.title == 'Home' %>
-        
-          <h1 class="mt-0">Rachael Kalicun</h1>
-        <% else %>
-          <div class="mt-0">Rachael Kalicun</div>
-        <% end %>
-      </a>
+      <div class="text-xs uppercase font-semibold mt-1">The musings of</div>
+      <% if @resource == 'Home' %>
+        <h1 class="mt-0 text-[#b64a70]">Rachael Kalicun</h1>
+      <% else %>
+        <a href="/">
+          <div class="mt-0 h1">Rachael Kalicun</div>
+        </a>
+      <% end %>
     </div>
-  
 </header>
