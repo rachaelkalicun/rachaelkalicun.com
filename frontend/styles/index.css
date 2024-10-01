@@ -19,9 +19,14 @@ body {
   color: var(--body-color);
   font-family: "Noto Sans", sans-serif;
   font-optical-sizing: auto;
-  font-size: 15px;
+  font-size: 14px;
   line-height: 1.6;
   padding: 20px;
+}
+
+ul {
+  list-style: disc;
+  margin-left: 30px
 }
 
 a {
