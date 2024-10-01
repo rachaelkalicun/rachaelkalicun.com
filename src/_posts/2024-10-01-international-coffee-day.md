@@ -7,7 +7,7 @@ summary: Today is International Coffee Day, making it the perfect time to expres
 ---
 
 
-![alt text](/images/espresso_in_calabria.jpg "Title")
+![alt text](/images/cappuccino.jpg "Title")
 
 Today is International Coffee Day, making it the perfect time to express my gratitude to this longtime love. Coffee and I have a very long relationship. I got hooked as a toddler when my grandfather first let me sip his sweet, milky coffee one Sunday after church, and it was love at first taste. If coffee truly does stunt your growth ([there's no evidence](https://health.clevelandclinic.org/does-coffee-stunt-growth){:target="_blank"}), I wouldn’t trade my early coffee-drinking habits for a few more inches.  
 
@@ -24,6 +24,8 @@ Forget about buying Kahlúa. I made my own coffee liqueur. White Russians and es
 ![alt text](/images/espresso_martini.jpg "Title")
 
 One of my favorite places is the Starbucks Reserve Roastery in Seattle. It’s the epitome of coffee luxury, the Willy Wonka’s chocolate factory of coffee, and a place where I will happily pay whatever they ask to sit at their bar and enjoy a coffee-themed cocktail.
+
+![alt text](/images/starbucks_reserve.jpg "Title")
 
 Coffee’s prevalence around the world means I can try all sorts of international expressions of this beverage when I travel. Among my most memorable experiences are:
 * Espresso with my uncle-in-law in Italy
