@@ -23,6 +23,6 @@
       <%= yield %>
     </main>
 
-    <%= render "footer", metadata: site.metadata %>
+    <%= render "footer", metadata: site.metadata, resource: resource.data.title %>
   </body>
 </html>

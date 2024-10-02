@@ -63,10 +63,6 @@ body > nav ul {
   font-weight: bold;
 }
 
-body > nav a {
-  text-decoration: none;
-}
-
 main {
   max-width: 41rem;
   margin: 0 auto 1rem auto;
