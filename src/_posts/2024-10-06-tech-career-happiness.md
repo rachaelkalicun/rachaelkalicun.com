@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How To Be Happy in a Tech Career"
+title:  "How To Be Happier in a Tech Career"
 date:   Oct 06, 2024
 categories: tech
 summary: Most people I interact with work in tech, and the majority of these individuals are unhappy with their jobs. For someone with tech experience, it’s not hard to understand why. There’s pressure to deliver code despite endless headwinds...
