@@ -3,7 +3,7 @@ layout: post
 title:  "Anti-Role Models"
 date:   Oct 14, 2024
 categories: improvement
-summary: Who do you not want to be like? I’ve answered this question many times over the past several years. Interactions with people whose behaviors and attitudes filled me with disgust made it obvious. Their negative traits made it easy to feel a strong desire never to be like them. With others,...
+summary: Who do you not want to be like? I’ve answered this question many times over the past several years. Interactions with people whose behaviors and attitudes filled me with disgust made it obvious. Their negative traits made it easy to feel a strong desire never to be like them. With others...
 ---
 
 Who do you _not_ want to be like? I’ve answered this question many times over the past several years. Interactions with people whose behaviors and attitudes filled me with disgust made it obvious. Their negative traits made it easy to feel a strong desire never to be like them. With others, I recognized that our values and beliefs didn’t align at all. I refer to these people as anti-role models.
