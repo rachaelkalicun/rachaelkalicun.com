@@ -1,3 +1,3 @@
-# This is a Ruby Bridgetown site and is hosted on Netlify. Styling with Tailwind.
+# Tech: Ruby with Bridgetown, Tailwind, Netlify
 
 https://www.bridgetownrb.com/docs
