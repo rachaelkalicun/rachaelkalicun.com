@@ -3,3 +3,5 @@
 collections:
   posts:
     permalink: /blog/:slug.*
+  cooking:
+    permalink: /cooking/:slug.*
