@@ -12,7 +12,7 @@ title: 'Home'
       </div>
     </div>
   <% end %> -->
-	<h2>Today I Learned</h2>
+	<h2>Today I learned</h2>
 	<% collections.tils.each do |til| %>
     <div class="mb-10">
 			<div class="text-[10px] text-[#959595] font-medium"><%= til.data.date.to_date.strftime("%B %d, %Y") %></div>
