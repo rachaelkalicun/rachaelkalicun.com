@@ -5,3 +5,9 @@ collections:
     permalink: /blog/:slug.*
   cooking:
     permalink: /cooking/:slug.*
+  sprints:
+    permalink: /sprints/:slug.*
+    output: true
+  tils:
+    permalink: /today-i-learned/:slug.*
+    output: true
