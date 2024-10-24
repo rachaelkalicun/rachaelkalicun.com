@@ -93,5 +93,5 @@ With a clear understanding of the why, guidance on the how, but still lots of de
 - See the world as it is
 - Get better clients
 - Be the boss of the process
-- Trust your self
+- Trust your **self**
 - Repeat
