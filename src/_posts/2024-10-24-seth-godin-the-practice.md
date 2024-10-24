@@ -8,7 +8,7 @@ summary: What does a person do after abandoning the practical path? Where does m
 
 What does a person do after abandoning the practical path? Where does motivation come from if not from money or power? I’ve asked these questions recently but could only come up with vague answers. Be creative but I wasn’t sure why.
 
-For a long time, I felt creatively stifled and believed that if I could just free myself, I’d be creative. But it turns out that facing an empty canvas with endless time was daunting and created a lot of resistance. I decided to turn to the wisdom of experts and began reading books on the subject of creativity. The first one I read was ([*The Practice: Shipping Creative Work*](https://www.amazon.com/The-Practice/dp/0241470048/){:target="_blank"}) by Seth Godin.
+For a long time, I felt creatively stifled and believed that if I could just free myself, I’d be creative. But it turns out that facing an empty canvas with endless time was daunting and created a lot of resistance. I decided to turn to the wisdom of experts and began reading books on the subject of creativity. The first one I read was [*The Practice: Shipping Creative Work*](https://www.amazon.com/The-Practice/dp/0241470048/){:target="_blank"} by Seth Godin.
 
 This book answered both of my questions. What does a person do after abandoning the practical path? Make art. Where does motivation come from? From generosity and the desire to impact others by contributing that art. 
 
