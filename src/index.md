@@ -4,7 +4,7 @@ title: 'Home'
 ---
 
 <div class="mx-auto my-0 bg-white p-[40px] pb-1">
-	<!-- <h2>Sprints</h2>
+	<!-- <h2>Personal agile</h2>
 	<% collections.sprints.each do |sprint| %>
     <div class="mb-10">
       <div class="mt-0 mb-0">
@@ -14,7 +14,7 @@ title: 'Home'
   <% end %> -->
 	<h2>Today I learned</h2>
 	<% collections.tils.each do |til| %>
-    <div class="mb-10">
+    <div class="mb-[8px]">
 			<div class="text-[10px] text-[#959595] font-medium"><%= til.data.date.to_date.strftime("%B %d, %Y") %></div>
       <div class="mt-0 mb-0">
         <a class="" href="<%= til.relative_url %>"><%= til.data.title %></a>

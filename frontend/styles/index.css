@@ -83,6 +83,10 @@ hr {
   margin: 3rem 0;
 }
 
+.disabled {
+	color: #c3c3c3;
+}
+
 h1,
 .h1 {
   @apply text-xl font-semibold mb-4 mt-0;
