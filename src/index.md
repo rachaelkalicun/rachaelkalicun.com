@@ -14,7 +14,7 @@ title: 'Home'
   <% end %> -->
 	<h2>Today I learned</h2>
 	<% collections.tils.each do |til| %>
-    <div class="mb-[8px]">
+    <div class="mb-[16px]">
 			<div class="text-[10px] text-[#959595] font-medium"><%= til.data.date.to_date.strftime("%B %d, %Y") %></div>
       <div class="mt-0 mb-0">
         <a class="" href="<%= til.relative_url %>"><%= til.data.title %></a>
@@ -22,9 +22,9 @@ title: 'Home'
     </div>
   <% end %> 
 
-	<h2>Recent blog posts</h2>
+	<h2 class="mt-12">Recent blog posts</h2>
   <% collections.posts.each do |post| %>
-    <div class="mb-10">
+    <div class="mb-[16px]">
       <div class="text-[10px] text-[#959595] font-medium"><%= post.data.date.to_date.strftime("%B %d, %Y") %></div>
       <div class="mt-0 mb-0">
         <a class="" href="<%= post.relative_url %>"><%= post.data.title %></a>
