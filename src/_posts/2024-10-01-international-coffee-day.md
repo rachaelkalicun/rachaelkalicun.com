@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "My Lifelong Love Affair with Coffee"
+description: On International Coffee Day, I reflect on my lifelong love of coffee, from my first childhood sip to crafting coffee drinks in my basement 'café' and savoring coffee rituals around the world. Coffee has been more than just a drink. It's been a journey, a passion, and even a little slice of luxury.
 date:   Oct 01, 2024
 categories: food
 summary: Today is International Coffee Day, making it the perfect time to express my gratitude to this longtime love. Coffee and I have a very long relationship. I got hooked as a toddler when my grandfather first let me sip his sweet, milky coffee one Sunday after church, and it was love at first taste...

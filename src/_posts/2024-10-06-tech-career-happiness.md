@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "How To Be Happier in a Tech Career"
+description: Many in tech feel trapped in unfulfilling jobs due to burnout, tight deadlines, and lack of agency. Tech work can feel stifling, but building resilience and being proactive can help tech professionals reclaim career satisfaction and stability by gaining skills, taking strategic roles, and forming key relationships.
 date:   Oct 06, 2024
 categories: tech
 summary: Most people I interact with work in tech, and the majority of these individuals are unhappy with their jobs. For someone with tech experience, it’s not hard to understand why. There’s pressure to deliver code despite endless headwinds...

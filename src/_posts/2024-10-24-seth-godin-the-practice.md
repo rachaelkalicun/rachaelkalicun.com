@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Seth Godin's The Practice - a Summary"
+description: Ever wondered what drives creativity after leaving the practical path? True motivation can come from serving an audience, making art, and bringing about positive change. By focusing on the impact you can create for others, rather than traditional rewards like money or recognition, you build a practice of intentional, meaningful work. It’s about finding your unique voice, staying disciplined, and embracing each step as a learning experience. Define your audience, ship your work, and let your creativity make a difference.
 date:   Oct 24, 2024
 categories: improvement
 summary: What does a person do after abandoning the practical path? Where does motivation come from if not from money or power? I’ve asked these questions recently but could only come up with vague answers. Be creative but I wasn’t sure why...

@@ -3,7 +3,7 @@
 <% resource_title = strip_html(strip_newlines(title)) %>
 <title><% if resource_title != "Home" %><%= resource_title %><% else %><%= metadata.title %><% end %></title>
 <link rel="icon" type="image/x-icon" href="/images/rachael.jpg">
-<meta name="description" content="<%= metadata.description %>" />
+<meta name="description" content="<%= resource.data.description || metadata.description %>" />
 <link rel="canonical" href="<%= resource.absolute_url %>">
 <link rel="stylesheet" href="<%= asset_path :css %>" />
 <script src="<%= asset_path :js %>" defer></script>

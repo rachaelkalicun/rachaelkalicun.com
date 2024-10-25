@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Travel, Empathy, and Shared Humanity"
+description: "Travel has taught me empathy, gratitude, and a deeper appreciation for different cultures. Reflecting on my trip to Vietnam, I explore how visiting new places and meeting diverse people has changed my perspective, made me a better global citizen, and enriched my life."
 date:   Sept 30, 2024
 categories: travel
 summary: While in Vietnam recently, a young woman asked me how many countries I’ve visited. It’s a question I’ve been asked in the past, but it hit differently this time. I felt a pang of guilt at the contrast of our lives just because we were born in two different, random places...

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Anti-Role Models"
+description: Ever thought about who you don’t want to be like? Identifying 'anti-role models'—those whose traits you find negative—can be a powerful tool for personal growth. Creating a 'How Not to Be' list helps you clarify qualities to avoid, guiding you to become a better version of yourself. Try it and see how avoiding these traits can positively shape your own path.
 date:   Oct 14, 2024
 categories: improvement
 summary: Who do you not want to be like? I refer to these people as anti-role models. I’ve answered this question many times over the past several years. Interactions with people whose behaviors and attitudes filled me with disgust made it obvious. Their negative traits made it easy to feel a strong desire never to be like them. With others...

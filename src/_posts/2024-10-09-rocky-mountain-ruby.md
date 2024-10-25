@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Rocky Mountain Ruby - a 12-year Hiatus"
+description: Returning to Rocky Mountain Ruby after 12 years, so much has changed for Ruby, for tech, and for me. I embrace Ruby in a JavaScript-dominated world while reconnecting with a community that values creativity, and I find freedom in building things for myself, without needing to prove anything to anyone else.
 date:   Oct 09, 2024
 categories: tech
 summary: This week, I attended the Rocky Mountain Ruby conference in Boulder. The last time I went was in 2012, and I have the faded t-shirt to prove it. A lot has changed since then...
