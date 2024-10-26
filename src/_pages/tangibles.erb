@@ -14,6 +14,7 @@
 			<div class="text-[10px] text-[#959595] font-medium"><%= tangible.data.date.to_date.strftime("%B %d, %Y") %></div>
 			<div class="mt-0 mb-0">
 				<a class="" href="<%= tangible.relative_url %>"><%= tangible.data.title %></a>
+				<p class=""><%= tangible.data.summary %></p>
 			</div>
 		</div>
 	<% end %>

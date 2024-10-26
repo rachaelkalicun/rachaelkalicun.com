@@ -1,15 +1,28 @@
-<header class="w-full">
-  <div class="">
-    <a href="/">
-      <img class="w-[75px] mx-auto my-0 rounded-full border-2 border-white inline-block" src="<%= relative_url '/images/rachael.jpg' %>" alt="Logo" />
-    </a>
-    <div class="text-xs uppercase font-semibold mt-1">The musings of</div>
-    <% if @resource == 'Home' %>
-      <h1 class="mt-0 text-[#b64a70]">Rachael Kalicun</h1>
-    <% else %>
-      <a href="/">
-        <div class="mt-0 h1">Rachael Kalicun</div>
-      </a>
-    <% end %>
-  </div>
+<header class="w-full sm:p-[40px] sm:py-0">
+
+	<ul class="flex items-center justify-between ml-0">
+						<div class=" mr-2.5">
+			<a href="/">
+				<img class="w-[60px] mx-auto my-0 rounded-full border-2 border-white inline-block" src="<%= relative_url '/images/rachael.jpg' %>" alt="Logo" />
+			</a>
+
+			</div>
+		</div>
+		<li class="text-xs sm:text-sm mr-2.5">
+			<a class="text-[#959595]" href="/">Home</a>
+		</li>
+		<li class="text-xs sm:text-sm mr-2.5">
+			<a class="text-[#959595]" href="/blog"> Writing</a>
+		</li>
+		<li class="text-xs sm:text-sm  mr-2.5">
+			<a class="text-[#959595]" href="/tangible-work">Tangible Work</a>
+		</li>
+
+		<li class="text-xs sm:text-sm mr-2.5">
+			<a class="text-[#959595]" href="/today-i-learned">Today I Learned</a>
+		</li>
+
+	</ul>
+ 
+
 </header>
