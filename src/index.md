@@ -27,7 +27,7 @@ title: 'Home'
 		</div>
 	<% end %> 
 	<div class="mt-2">
-		<a class="text-xs text-[#616161]" href="/today-i-learned">All of my work away from the keyboard →</a>
+		<a class="text-xs text-[#616161]" href="/tangible-work">All of my work away from the keyboard →</a>
 	</div>
 	<hr class="mt-6">
 	<h2 class="mt-6">Today I learned</h2>
