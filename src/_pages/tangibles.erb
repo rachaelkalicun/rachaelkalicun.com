@@ -1,0 +1,20 @@
+---<%
+{
+	layout: :page,
+	title: "Tangible work",
+	description: "A collection of the work I do with my hands",
+	permalink: "/tangible-work/"
+}
+%>---
+
+<div class="mx-auto my-0 bg-white p-[40px] pb-[24px]">
+	<h2 class="mt-0">Tangible work</h2>
+	<% collections.tangible_works.each do |tangible| %>
+		<div class="mb-[16px]">
+			<div class="text-[10px] text-[#959595] font-medium"><%= tangible.data.date.to_date.strftime("%B %d, %Y") %></div>
+			<div class="mt-0 mb-0">
+				<a class="" href="<%= tangible.relative_url %>"><%= tangible.data.title %></a>
+			</div>
+		</div>
+	<% end %>
+</div>

@@ -8,8 +8,14 @@ collections:
   sprints:
     permalink: /sprints/:slug.*
     output: true
+    future: true
   tils:
     permalink: /today-i-learned/:slug.*
+    output: true
+    sort_by: order
+    sort_direction: descending
+  tangible_works:
+    permalink: /tangible-work/:slug.*
     output: true
     sort_by: order
     sort_direction: descending
