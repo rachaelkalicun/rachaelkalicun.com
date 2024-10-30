@@ -7,5 +7,7 @@
 <link rel="canonical" href="<%= resource.absolute_url %>">
 <link rel="stylesheet" href="<%= asset_path :css %>" />
 <script src="<%= asset_path :js %>" defer></script>
-<%= feed_meta %>
+<link type="application/atom+xml" rel="alternate" href="/feed.xml" title="Blog posts by Rachael Kalicun" />
+<link type="application/atom+xml" rel="alternate" href="/feed/tils.xml" title="Today I Learned by Rachael Kalicun" />
+<link type="application/atom+xml" rel="alternate" href="/feed/tangible_works.xml" title="Tangible Work by Rachael Kalicun" />
 <%= live_reload_dev_js %>
