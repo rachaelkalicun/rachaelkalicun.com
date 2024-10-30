@@ -11,10 +11,10 @@
 	<h2 class="mt-0">Tangible work</h2>
 	<% collections.tangible_works.each do |tangible| %>
 		<div class="mb-[16px]">
-			<div class="text-[10px] text-[#959595] font-medium"><%= tangible.data.date.to_date.strftime("%B %d, %Y") %></div>
+			<div class="post-date"><%= tangible.data.date.to_date.strftime("%B %d, %Y") %></div>
 			<div class="mt-0 mb-0">
-				<a class="" href="<%= tangible.relative_url %>"><%= tangible.data.title %></a>
-				<p class=""><%= tangible.data.summary %></p>
+				<a href="<%= tangible.relative_url %>"><%= tangible.data.title %></a>
+				<p><%= tangible.data.summary %></p>
 			</div>
 		</div>
 	<% end %>

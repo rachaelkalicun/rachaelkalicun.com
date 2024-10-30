@@ -82,6 +82,10 @@ footer {
   text-align: center;
 }
 
+.post-date {
+	@apply text-[10px] text-[#959595] font-medium leading-[22.4px];
+}
+
 hr {
   border: none;
   border-top: 2px dotted #cacaca;

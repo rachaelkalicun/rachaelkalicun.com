@@ -8,9 +8,9 @@ title: 'Home'
   <% collections.posts.each do |post| %>
     <div class="mb-[16px]">
       <div class="mt-0 mb-0">
-        <a class="" href="<%= post.relative_url %>"><%= post.data.title %></a>
+        <a href="<%= post.relative_url %>"><%= post.data.title %></a>
       </div>
-			<div class="text-[10px] text-[#959595] font-medium"><%= post.data.date.to_date.strftime("%B %d, %Y") %></div>
+			<div class="post-date"><%= post.data.date.to_date.strftime("%B %d, %Y") %></div>
     </div>
   <% end %>
 	<div class="mt-2">
@@ -21,9 +21,9 @@ title: 'Home'
 	<% collections.tangible_works.each do |tangible| %>
 		<div class="mb-[16px]">
 			<div class="mt-0 mb-0">
-				<a class="" href="<%= tangible.relative_url %>"><%= tangible.data.title %></a>
+				<a href="<%= tangible.relative_url %>"><%= tangible.data.title %></a>
 			</div>
-			<div class="text-[10px] text-[#959595] font-medium"><%= tangible.data.date.to_date.strftime("%B %d, %Y") %></div>
+			<div class="post-date"><%= tangible.data.date.to_date.strftime("%B %d, %Y") %></div>
 		</div>
 	<% end %> 
 	<div class="mt-2">
@@ -33,9 +33,9 @@ title: 'Home'
 	<h2 class="mt-6">Today I learned</h2>
 	<div class="mb-[16px]">
 		<div class="mt-0 mb-0">
-			<a class="" href="<%= collections.tils[0].relative_url %>"><%= collections.tils[0].data.title %></a>
+			<a href="<%= collections.tils[0].relative_url %>"><%= collections.tils[0].data.title %></a>
 		</div>
-		<div class="text-[10px] text-[#959595] font-medium"><%= collections.tils[0].data.date.to_date.strftime("%B %d, %Y") %></div>
+		<div class="post-date"><%= collections.tils[0].data.date.to_date.strftime("%B %d, %Y") %></div>
 	</div>
 	<div class="mt-2 mb-6">
 		<a class="text-xs text-[#616161]" href="/today-i-learned">All of the tips →</a>

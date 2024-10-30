@@ -11,10 +11,10 @@
 	<h2 class="mt-0">Writing</h2>
 	<% collections.posts.each do |post| %>
 		<div class="mb-10">
-			<div class="text-[10px] text-[#959595] font-medium"><%= post.data.date.to_date.strftime("%B %d, %Y") %></div>
+			<div class="post-date"><%= post.data.date.to_date.strftime("%B %d, %Y") %></div>
 			<div class="mt-0 mb-0">
-				<a class="" href="<%= post.relative_url %>"><%= post.data.title %></a>
-				<p class=""><%= post.data.summary %></p>
+				<a href="<%= post.relative_url %>"><%= post.data.title %></a>
+				<p><%= post.data.summary %></p>
 			</div>
 		</div>
 	<% end %>
