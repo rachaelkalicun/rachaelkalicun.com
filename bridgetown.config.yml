@@ -3,6 +3,7 @@
 collections:
   posts:
     permalink: /blog/:slug.*
+    title: "Blog posts"
   cooking:
     permalink: /cooking/:slug.*
   sprints:
@@ -14,8 +15,14 @@ collections:
     output: true
     sort_by: order
     sort_direction: descending
+    title: "Today I Learned"
   tangible_works:
     permalink: /tangible-work/:slug.*
     output: true
     sort_by: order
     sort_direction: descending
+    title: "Tangible Work"
+feed:
+  collections:
+    - tils
+    - tangible_works

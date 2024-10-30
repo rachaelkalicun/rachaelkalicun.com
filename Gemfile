@@ -27,8 +27,7 @@ gem "bridgetown", "~> 2.0.0.beta2"
 # Puma is the Rack-compatible web server used by Bridgetown
 # (you can optionally limit this to the "development" group)
 gem "puma", "< 7"
-gem 'bridgetown-feed'
-
+gem 'bridgetown-feed', git: "https://github.com/rachaelkalicun/bridgetown-feed.git"
 # Uncomment to use the Inspectors API to manipulate the output
 # of your HTML or XML resources:
 # gem "nokogiri", "~> 1.13"
