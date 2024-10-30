@@ -28,6 +28,7 @@ gem "bridgetown", "~> 2.0.0.beta2"
 # (you can optionally limit this to the "development" group)
 gem "puma", "< 7"
 gem 'bridgetown-feed', git: "https://github.com/rachaelkalicun/bridgetown-feed.git"
+gem 'bridgetown-sitemap'
 # Uncomment to use the Inspectors API to manipulate the output
 # of your HTML or XML resources:
 # gem "nokogiri", "~> 1.13"

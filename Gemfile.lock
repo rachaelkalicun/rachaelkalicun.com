@@ -63,6 +63,8 @@ GEM
       zeitwerk (~> 2.5)
     bridgetown-paginate (2.0.0.beta2)
       bridgetown-core (= 2.0.0.beta2)
+    bridgetown-sitemap (2.0.2)
+      bridgetown (>= 1.2.0, < 2.0)
     concurrent-ruby (1.3.4)
     connection_pool (2.4.1)
     csv (3.3.0)
@@ -154,6 +156,7 @@ PLATFORMS
 DEPENDENCIES
   bridgetown (~> 2.0.0.beta2)
   bridgetown-feed!
+  bridgetown-sitemap
   puma (< 7)
 
 BUNDLED WITH
