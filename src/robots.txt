@@ -2,4 +2,7 @@
 sitemap: false
 ---
 
+Sitemap: https://www.rachaelkalicun.com/sitemap.xml
 Disallow: /cdn-cgi/
+Disallow: /feed.xml
+Disallow: /feed/*
