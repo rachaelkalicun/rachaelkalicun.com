@@ -9,7 +9,7 @@ summary: Like matzo ball soup, kasha varnishkes is a dish I picked up while livi
 
 ![kasha varnishkes](/images/kasha_varnishkes.jpg "Kasha Varnishkes")
 
-Like [matzo ball soup](/tangible-work/spatchcock-roasted-chicken-soup), kasha varnishkes is a dish I picked up while living with an Ashkenazi Jewish family in the Bronx, and like the soup, it’s something I crave when the cold and darkness set in. It’s a simple dish where kasha (roasted buckwheat groats), onions, fat (I use butter and olive oil), and bowtie pasta come together. Eating it feels like being at grandma’s house again. 
+Like [matzo ball soup](/tangible-work/spatchcock-roasted-chicken-soup), kasha varnishkes is a dish I discovered while living with an Ashkenazi Jewish family in the Bronx, and like the soup, it’s something I crave when the cold and darkness set in. It’s a simple dish where kasha (roasted buckwheat groats), onions, fat (I use butter and olive oil), and bowtie pasta come together. Eating it feels like being at grandma’s house again. 
 
 I learned to make this dish 16 years ago when [Mark Bittman](https://en.wikipedia.org/wiki/Mark_Bittman){:target="_blank"} had his _Minimalist_ column in the _New York Times_ with accompanying videos. Here’s [the video](https://www.youtube.com/watch?v=ugeNF_WrUPU){:target="_blank"} and [the recipe](https://cooking.nytimes.com/recipes/1015727-kasha-varnishkes){:target="_blank"}, which I still use. I love mushrooms and add them generously although they are not in Bittman’s recipe.
 
