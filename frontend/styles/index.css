@@ -8,8 +8,8 @@
 @tailwind utilities;
 
 :root {
-  --body-background: #f4f6f5;
-  --body-color: #616161;
+  --body-background: #fff;
+  --body-color: #000;
   --heading-color: #b64a70;
   --action-color: #b64a70;
 }
@@ -17,20 +17,20 @@
 body {
   background: var(--body-background);
   color: var(--body-color);
-  font-family: "Noto Sans", sans-serif;
+  font-family: "Lato", sans-serif;
   font-optical-sizing: auto;
-  font-size: 14px;
-  line-height: 1.6;
-  padding: 20px;
+  font-size: 13px;
+  line-height: 1.8;
+  padding: 0px;
+}
+
+.alt_font {
+	font-family: "Reenie Beanie", "Lato", sans-serif;
 }
 
 ul {
   list-style: disc;
   margin-left: 30px;
-}
-
-header ul {
-	list-style: none;
 }
 
 ol {
@@ -54,23 +54,30 @@ h1 {
 
 body > header {
   text-align: center;
-  max-width: 41rem;
   margin: 0 auto;
 }
 
 header a {
   text-decoration: none;
+	color: #000;
 }
 
-body > nav ul {
+.nav-holder {
+		background: #daf2de;
+}
+
+body > header ul {
   margin: 2rem 0;
   padding: 0;
-  list-style-type: none;
   display: flex;
   justify-content: center;
   gap: 1.5rem;
   font-size: 1.3rem;
   font-weight: bold;
+	max-width: 41rem;
+	margin: 0 auto;
+	padding: 10px 20px;
+	list-style: none;
 }
 
 main {
@@ -80,10 +87,15 @@ main {
 
 footer {
   text-align: center;
+	padding-bottom: 1rem;
 }
 
 .post-date {
 	@apply text-[10px] text-[#959595] font-medium leading-[22.4px];
+}
+
+.post-title {
+	margin-bottom: .25rem;
 }
 
 hr {

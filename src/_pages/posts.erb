@@ -7,15 +7,15 @@
 }
 %>---
 
-<div class="mx-auto my-0 bg-white p-[20px] sm:p-[40px] pb-[24px]">
-	<h2 class="mt-0">Writing</h2>
+<div class="mx-auto my-0 bg-white p-[20px] pb-[24px]">
+	<h2 class="mt-0 alt_font text-2xl">My Writing</h2>
 	<% collections.posts.each do |post| %>
 		<div class="mb-10">
 			<div class="post-date"><%= post.data.date.to_date.strftime("%B %d, %Y") %></div>
-			<div class="mt-0 mb-0">
+			<h3 class="post-title">
 				<a href="<%= post.relative_url %>"><%= post.data.title %></a>
-				<p><%= post.data.summary %></p>
-			</div>
+			</h3>
+			<p><%= post.data.summary %></p>
 		</div>
 	<% end %>
 	
