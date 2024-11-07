@@ -14,7 +14,7 @@ title: 'Home'
     </div>
   <% end %>
 	<div class="mt-2">
-		<a class="text-xs" href="/blog/">More blog posts →</a>
+		<a class="text-xs text-black" href="/blog/">More blog posts →</a>
 	</div>
 	<hr class="mt-6">
 	<h2 class="mt-6 alt_font text-2xl">Tangible Work</h2>
@@ -27,7 +27,7 @@ title: 'Home'
 		</div>
 	<% end %> 
 	<div class="mt-2">
-		<a class="text-xs" href="/tangible-work/">More work away from the keyboard →</a>
+		<a class="text-xs text-black" href="/tangible-work/">More work away from the keyboard →</a>
 	</div>
 	<hr class="mt-6">
 	<h2 class="mt-6 alt_font text-2xl">Today I Learned</h2>
@@ -38,6 +38,6 @@ title: 'Home'
 		<div class="post-date"><%= collections.tils[0].data.date.to_date.strftime("%B %d, %Y") %></div>
 	</div>
 	<div class="mt-2 mb-6">
-		<a class="text-xs" href="/today-i-learned/">More tips →</a>
+		<a class="text-xs text-black" href="/today-i-learned/">More tips →</a>
 	</div>
 </div>
