@@ -103,6 +103,10 @@ hr {
   border-top: 2px dotted #cacaca;
 }
 
+.image-styled {
+	border: 1px solid #cacaca;
+}
+
 .disabled, .caption {
 	color: #c3c3c3;
 }
