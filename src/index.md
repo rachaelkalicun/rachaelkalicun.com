@@ -31,12 +31,14 @@ title: 'Home'
 	</div>
 	<hr class="mt-6">
 	<h2 class="mt-6 alt_font text-2xl">Today I Learned</h2>
-	<div class="mb-[16px]">
-		<h3 class="post-title">
-			<a href="<%= collections.tils[0].relative_url %>"><%= collections.tils[0].data.title %></a>
-		</h3>
-		<div class="post-date"><%= collections.tils[0].data.date.to_date.strftime("%B %d, %Y") %></div>
-	</div>
+	<% collections.tils.each do |til| %>
+		<div class="mb-[16px]">
+			<h3 class="post-title">
+				<a href="<%= til.relative_url %>"><%= til.data.title %></a>
+			</h3>
+			<div class="post-date"><%= til.data.date.to_date.strftime("%B %d, %Y") %></div>
+		</div>
+	<% end %>
 	<div class="mt-2 mb-6">
 		<a class="text-xs text-black" href="/today-i-learned/">More tips →</a>
 	</div>
