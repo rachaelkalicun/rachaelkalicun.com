@@ -3,6 +3,8 @@ layout: til
 title:  "URL Trailing Slashes - Use Them or Not?"
 date:   Nov 6, 2024
 categories: seo
+description: Today, I revisited the question of trailing slashes in URLs after spotting redirects in Google Search Console and whether URLs should have them or not for SEO optimization.
+summary: After reviewing the redirects report today in Google Search Console, I faced the question of whether URLs should have trailing slashes. When I initially set up my URL structure, I made a cursory decision to have directory URLs include trailing slashes but not files... 
 ---
 
 After reviewing the redirects report today in Google Search Console, I faced the question of whether URLs should have trailing slashes. When I initially set up my URL structure, I made a cursory decision to have directory URLs include trailing slashes but not files. 
