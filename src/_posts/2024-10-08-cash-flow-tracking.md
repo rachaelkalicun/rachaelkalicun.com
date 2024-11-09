@@ -17,7 +17,7 @@ Now, I have seven months’ worth of data. I know, on average, how much I spend 
 <div class="image-styled mb-5"><img src="/images/grocery_spending.jpg" alt="grocery spending" width="616"/></div>
 
 I understand which categories I spend the most on. 
-<div class="image-styled mb-5"><img src="/images/expenses_by_category.jpg" alt="expenses by category" width="467"/></div>
+<div class="image-styled mb-5"><img src="/images/expenses_by_category.jpg" alt="expenses by category" width="461"/></div>
 
 I also know my overall average monthly spending.
 <div class="image-styled mb-5"><img src="/images/monthly_expenses.jpg" alt="monthly expenses" width="512"/></div>

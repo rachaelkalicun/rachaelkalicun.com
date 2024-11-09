@@ -19,7 +19,7 @@ body {
   color: var(--body-color);
   font-family: "Lato", sans-serif;
   font-optical-sizing: auto;
-  font-size: 13px;
+  font-size: 16px;
   line-height: 1.8;
   padding: 0px;
 }
@@ -91,7 +91,7 @@ footer {
 }
 
 .post-date {
-	@apply text-[10px] text-[#959595] font-medium leading-[22.4px];
+	@apply text-xs text-[#959595] font-medium;
 }
 
 .post-title {
@@ -112,7 +112,7 @@ hr {
 }
 
 .caption {
-	@apply text-xs text-center;
+	@apply text-sm text-center;
 }
 
 h1,
