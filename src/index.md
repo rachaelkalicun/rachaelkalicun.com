@@ -42,4 +42,13 @@ title: 'Home'
 	<div class="mt-2 mb-6">
 		<a class="text-sm text-black" href="/today-i-learned/">More tips →</a>
 	</div>
+	<hr class="mt-6">
+	<h2 class="mt-6 alt_font text-3xl">This Week</h2>
+	<div class="mb-[20px]">
+		<h3 class="post-title">
+			<a href="<%= collections.sprints[0].relative_url %>">
+				<%= collections.sprints[0].data.title %>
+			</a>
+		</h3>
+	</div>
 </div>
