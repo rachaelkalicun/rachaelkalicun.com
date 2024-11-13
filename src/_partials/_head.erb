@@ -4,7 +4,12 @@
 <title><% if resource_title != "Home" %><%= resource_title %><% else %><%= metadata.title %><% end %></title>
 <link rel="icon" type="image/png" href="/images/favicon.png">
 <meta name="description" content="<%= resource.data.description || metadata.description %>" />
-<link rel="canonical" href="<%= resource.absolute_url %>">
+<% if resource.data.pagination_info %>
+	<% url = absolute_url resource.relative_url %>
+	<link href="<%= url %>" rel="canonical">
+<% else %>
+	<link href="<%= resource.absolute_url %>" rel="canonical">
+<% end %>
 <link rel="stylesheet" href="<%= asset_path :css %>" />
 <script src="<%= asset_path :js %>" defer></script>
 <link type="application/atom+xml" rel="alternate" href="/feed.xml" title="Blog posts by Rachael Kalicun" />
