@@ -89,6 +89,10 @@ footer {
 	max-width: 41rem;
 	padding: 10px 20px;
 	margin: 0 auto;
+
+	hr {
+		border-top: 1px solid #f1f1f1;
+	}
 }
 
 .post-date {
