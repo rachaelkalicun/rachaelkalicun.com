@@ -86,8 +86,9 @@ main {
 }
 
 footer {
-  text-align: center;
-	padding-bottom: 1rem;
+	max-width: 41rem;
+	padding: 10px 20px;
+	margin: 0 auto;
 }
 
 .post-date {

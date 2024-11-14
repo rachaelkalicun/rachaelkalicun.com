@@ -1,7 +1,19 @@
-<footer>
-  <% unless resource == 'Home' %>
-    <a href="/">
-      Home
-    </a>
-  <% end %>
+	
+<footer class="text-xs text-center">
+	<hr>
+	<div class="sm:flex sm:justify-between sm:items-center mt-2">
+		<div class="post-date">©<%= Time.now.year %> Rachael Kalicun</div>
+		<% unless resource == 'Home' %>
+			<div>
+				<a class="post-date" href="/">
+					Home
+				</a>
+			</div>
+		<% end %>
+		<div><a class="post-date" href="/blog/">Blog Posts</a></div>
+		<div><a class="post-date" href="/tangible-work/">Tangible Work</a></div>
+		<div><a class="post-date" href="/today-i-learned/">Today I Learned</a></div>
+		<div><a class="post-date" href="<%= @current_sprint_url %>">This Week</a></div>
+	</div>
+	
 </footer>
