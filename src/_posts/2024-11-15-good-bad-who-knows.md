@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "It could be good. It could be bad. Who knows?"
+title:  "It Could Be Good. It Could Be Bad. Who Knows?"
 description: This week, a Chinese parable from Never Play It Safe by Chase Jarvis made me rethink how I label life’s events as ‘good’ or ‘bad.’ Embracing uncertainty can lead to more mindfulness and growth.
 date:   Nov 15, 2024
 categories: improvement
