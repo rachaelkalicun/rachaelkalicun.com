@@ -43,12 +43,20 @@ title: 'Home'
 		<a class="text-sm text-black" href="/today-i-learned/">All tips →</a>
 	</div>
 	<hr class="mt-6">
-	<h2 class="mt-6 alt_font text-3xl">This Week</h2>
-	<div class="mb-[20px]">
-		<h3 class="post-title">
-			<a href="<%= collections.sprints.last.relative_url %>">
-				<%= collections.sprints.last.data.title %>
-			</a>
-		</h3>
+	<h2 class="mt-6 alt_font text-3xl">Sprints</h2>
+	<% collections.sprints[0..4].to_enum.with_index.reverse_each do |sprint, index| %>
+		<div class="mb-[10px]">
+			<h3 class="post-title">
+				<% if index == collections.sprints.count - 1 %>
+					<span class="post-date">This week: </span>
+				<% end %>
+				<a href="<%= sprint.relative_url %>">
+					<%= sprint.data.title %>
+				</a>
+			</h3>
+		</div>
+	<% end %>
+	<div class="mt-2 mb-6">
+		<a class="text-sm text-black" href="/sprints/">All sprints →</a>
 	</div>
 </div>
