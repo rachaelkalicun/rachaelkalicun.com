@@ -12,6 +12,7 @@ collections:
     permalink: /sprints/:slug.*
     output: true
     future: true
+    title: "Personal Agile sprints"
   tils:
     permalink: /today-i-learned/:slug.*
     output: true
