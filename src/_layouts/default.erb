@@ -23,6 +23,6 @@
       <%= yield %>
     </main>
 
-    <%= render "footer", metadata: site.metadata, resource: resource.data.title %>
+    <%= render "footer", metadata: site.metadata, resource: resource.data.title, current_sprint_url: collections.sprints.last.relative_url %>
   </body>
 </html>
