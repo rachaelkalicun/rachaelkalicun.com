@@ -46,8 +46,8 @@ title: 'Home'
 	<h2 class="mt-6 alt_font text-3xl">This Week</h2>
 	<div class="mb-[20px]">
 		<h3 class="post-title">
-			<a href="<%= collections.sprints[0].relative_url %>">
-				<%= collections.sprints[0].data.title %>
+			<a href="<%= collections.sprints.last.relative_url %>">
+				<%= collections.sprints.last.data.title %>
 			</a>
 		</h3>
 	</div>
