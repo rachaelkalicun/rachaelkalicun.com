@@ -1,7 +1,7 @@
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <% resource_title = strip_html(strip_newlines(title)) %>
-<title><% if resource_title != "Home" %><%= resource_title %><% else %><%= metadata.title %><% end %></title>
+<title><% if resource_title != "Home" %><%= resource_title %> by Rachael Kalicun<% else %><%= metadata.title %><% end %></title>
 <link rel="icon" type="image/png" href="/images/favicon.png">
 <meta name="description" content="<%= resource.data.description || metadata.description %>" />
 <% if resource.data.pagination_info %>
