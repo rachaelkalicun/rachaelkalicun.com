@@ -4,7 +4,11 @@
 			<img class="w-[60px] mx-auto my-0 rounded-full border-2 border-white inline-block" src="<%= relative_url '/images/rachael.jpg' %>" alt="Logo" />
 		</a>
 	</div>
-	<div class="mb-2 text-xl alt_font"><a href="/">Rachael Kalicun</a></div>
+	<% if @resource == 'Home' %>
+		<h1 class="mb-2 text-xl alt_font"><a href="/">Rachael Kalicun</a></h1>
+	<% else %>
+		<div class="mb-2 text-xl alt_font"><a href="/">Rachael Kalicun</a></div>
+	<% end %>
 	<div class="nav-holder">
 		<ul class="flex mb-0 justify-between items-center">
 			<li class="text-sm">
