@@ -4,7 +4,7 @@ title: "The Practice Step 1 - Defining an Audience Unsuccessfully"
 description: After reading *Seth Godin’s The Practice*, I decided to create something just for me—a personal app that feels meaningful. Even if it’s a bit unconventional, I’m building it for myself first, but who knows, maybe others will find value in it too. Follow along as I work through defining my audience, connecting with like-minded people, and taking small steps to bring this idea to life.
 date:   Oct 29, 2024
 categories: improvement
-summary: After reading Seth Godin's "The Practice Shipping Creative Work", I committed to accomplishing my first step, defining an audience and the impact I could have on them through my art. My initial goal was to define an audience and identify the change I can bring to them...
+summary: After reading Seth Godin's <a href="https://www.amazon.com/The-Practice/dp/0241470048/" target="_blank"><i>The Practice Shipping Creative Work</i></a> (and summarizing what it meant for me <a href="/blog/seth-godin-the-practice">here</a>), I committed to accomplishing my first step, defining an audience and the impact I could have on them through my art. My initial goal was to define an audience and identify the change I can bring to them...
 ---
 
 After reading Seth Godin's [*The Practice: Shipping Creative Work*](https://www.amazon.com/The-Practice/dp/0241470048/){:target="_blank"} (and summarizing what it meant for me [here](/blog/seth-godin-the-practice)), I committed to accomplishing my first step: defining an audience and the impact I could have on this group through my art. My initial goal was to "define an audience and identify the change I can bring to them." I thought about groups I could most likely influence, but none really excited me.

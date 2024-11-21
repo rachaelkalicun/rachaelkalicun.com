@@ -4,7 +4,7 @@ title:  "Experimenting with the Maker's Schedule Using Agile"
 description: Figuring out the shift from a manager’s schedule to a maker’s schedule after leaving a structured job, using agile practices and a flexible routine to boost productivity and focus on meaningful projects.
 date:   Nov 05, 2024
 categories: improvement
-summary: Nearly a year before I left my job, I began to seriously consider what life would be like afterward. I read a couple of books about living an intentional life, Living Forward and Designing Your Life, and I spent a significant amount of time working through their exercises to identify what mattered most to me...
+summary: Nearly a year before I left my job, I began to seriously consider what life would be like afterward. I read a couple of books about living an intentional life, <a href="https://www.amazon.com/Living-Forward-Proven-Plan-Drifting/dp/080101882X" target="_blank">Living Forward</a> and <a href="https://www.amazon.com/Designing-Your-Life-Well-Lived-Joyful/dp/1101875321/" target="_blank">Designing Your Life</a>, and I spent a significant amount of time working through their exercises to identify what mattered most to me...
 ---
 
 

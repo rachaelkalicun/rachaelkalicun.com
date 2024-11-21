@@ -4,7 +4,7 @@ title:  "Using Jira Automation to Clone Epics and Children into a Future Sprint"
 description: How I automated creating recurring epics and children while adding them to a future sprint.
 date:   Nov 17, 2024
 categories: agile
-summary: In my new personal Agile practice, I wanted to make the process of setting up sprints easier. I decided to automate the creation of epics and tasks, which recur each sprint. These would then be added to the next sprint automatically....
+summary: In my new <a href="/blog/personal-agile-practice">personal Agile practice</a>, I wanted to make the process of setting up sprints easier. I decided to automate the creation of epics and tasks, which recur each sprint. These would then be added to the next sprint automatically...
 ---
 
 In my new [personal Agile practice](/blog/personal-agile-practice), I wanted to make the process of setting up sprints easier. I decided to automate the creation of epics and tasks, which recur each sprint. These would then be added to the next sprint automatically.

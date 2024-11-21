@@ -18,7 +18,7 @@
 			<div class="post-date"><%= tangible.data.date.to_date.strftime("%B %d, %Y") %></div>
 			<div class="mt-0 mb-0">
 				<h3 class="post-title"><a href="<%= tangible.relative_url %>"><%= tangible.data.title %></a></h3>
-				<p><%= tangible.data.summary %></p>
+				<p><%= tangible.data.summary.html_safe %></p>
 			</div>
 		</div>
 	<% end %>

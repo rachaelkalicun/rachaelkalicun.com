@@ -20,7 +20,7 @@
 				<h3 class="post-title">
 					<a href="<%= til.relative_url %>"><%= til.data.title %></a>
 				</h3>
-				<p><%= til.data.summary %></p>
+				<p><%= til.data.summary.html_safe %></p>
 			</div>
 		</div>
 	<% end %>

@@ -19,7 +19,7 @@
 			<h3 class="post-title">
 				<a href="<%= post.relative_url %>"><%= post.data.title %></a>
 			</h3>
-			<p><%= post.data.summary %></p>
+			<p><%= post.data.summary.html_safe %></p>
 		</div>
 	<% end %>
 	<% if paginator.total_pages > 1 %>

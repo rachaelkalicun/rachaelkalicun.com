@@ -4,7 +4,7 @@ title:  Building Financial Resilience Through Money Tracking
 description: Tracking spending habits can provide insight into managing expenses and building financial resilience. My process for tracking cash flow.
 date:   Nov 8, 2024
 categories: improvement
-summary: The start of each month is one of my favorite times because I get to do an activity I love, tracking my cash flow. Maybe it sounds like an odd activity to enjoy, but it gives me a detailed breakdown of my spending habits, which builds my confidence in maintaining financial resilience...
+summary: "The start of each month is one of my favorite times because I get to do an activity I love: tracking my cash flow. Maybe it sounds like an odd activity to enjoy, but it gives me a detailed breakdown of my spending habits, which builds my confidence in maintaining financial resilience..."
 ---
 
 The start of each month is one of my favorite times because I get to do an activity I love: tracking my cash flow. Maybe it sounds like an odd activity to enjoy, but it gives me a detailed breakdown of my spending habits, which builds my confidence in maintaining financial resilience.

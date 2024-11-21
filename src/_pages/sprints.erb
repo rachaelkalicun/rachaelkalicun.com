@@ -14,14 +14,14 @@
 <div class="mx-auto my-0 p-[20px] pb-[24px]">
 	<h2 class="mt-0 alt_font text-3xl">Sprints</h2>
 	<% paginator.resources.each_with_index do |sprint, index| %>
-		<div class="mb-[5px]">
+		<div class="mb-10">
 			<h3 class="post-title">
 				<% if index == 0 %>
 					<span class="post-date">This week: </span>
 				<% end %>
 				<a href="<%= sprint.relative_url %>"><%= sprint.data.title %></a>
 			</h3>
-			<p><%= sprint.data.summary %></p>
+			<%= sprint.data.summary.html_safe %>
 		</div>
 	<% end %>
 	<% if paginator.total_pages > 1 %>
