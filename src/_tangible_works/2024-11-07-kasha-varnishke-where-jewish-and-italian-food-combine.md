@@ -5,6 +5,7 @@ description: Kasha Varnishkes is a dish that blends Jewish and Italian influence
 date:  Nov 7, 2024
 categories: cooking
 summary: Like <a href="/tangible-work/spatchcock-roasted-chicken-soup">matzo ball soup</a>, kasha varnishkes is a dish I picked up while living with an Ashkenazi Jewish family in the Bronx. Like the soup, it’s something I crave when the cold and darkness set in. It’s a simple dish where kasha (roasted buckwheat groats), onions, fat (I use butter and olive oil), and bowtie pasta come together...
+featured_image: '/images/kasha_varnishkes.jpg'
 ---
 
 ![kasha varnishkes](/images/kasha_varnishkes.jpg "Kasha Varnishkes")

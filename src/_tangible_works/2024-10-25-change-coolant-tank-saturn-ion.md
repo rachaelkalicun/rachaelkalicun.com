@@ -1,10 +1,11 @@
 ---
 layout: tangible_work
 title: "Coolant Reservoir Replacement in 2006 Saturn Ion"
-description: I replaced the coolant tank in my 2006 Saturn Ion to resolve a persistent coolant light and dinging issue. I purchased an OEM radiator surge tank and followed a DIY method using a siphon pump to avoid extra dismantling. Detailed tool list and step-by-step challenges included.
+description: Replacing the coolant tank in a 2006 Saturn Ion to resolve a persistent coolant light and dinging issue. Detailed tool list and step-by-step challenges included.
 date:  Oct 25, 2024
 categories: car
 summary: This week, I replaced the coolant tank in my 2006 Saturn Ion after dealing with the coolant light on the dashboard being constantly illuminated for the past year, accompanied by a jarring ding every time I started the car...
+featured_image: '/images/new_coolant_reservoir.jpg'
 ---
 
 

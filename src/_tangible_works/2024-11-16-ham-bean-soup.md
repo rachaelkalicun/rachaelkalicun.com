@@ -5,6 +5,7 @@ description: A comforting ham soup inspired by simple traditions in western Penn
 date:  Nov 16, 2024
 categories: cooking
 summary: I grew up in western Pennsylvania, just half a mile from Ohio. Pittsburgh was the nearest big city, albeit almost an hour and a half away. Thirty to forty years ago, when I was a kid, the region was a place of tradition, where ties to the old world never seemed very far away....
+featured_image: '/images/ham_bean_potato_cabbage_soup.jpg'
 ---
 
 ![ham bean potato cabbage soup](/images/ham_bean_potato_cabbage_soup.jpg "Ham Bean Potato Cabbage Soup")

@@ -12,15 +12,24 @@
 %>---
 
 <div class="mx-auto my-0 p-[20px] pb-[24px]">
-	<h2 class="mt-0 alt_font text-3xl">Tangible Work</h2>
-	<% paginator.resources.each do |tangible| %>
-		<div class="mb-10">
-			<div class="post-date"><%= tangible.data.date.to_date.strftime("%B %d, %Y") %></div>
-			<div class="mt-0 mb-0">
-				<h3 class="post-title"><a href="<%= tangible.relative_url %>"><%= tangible.data.title %></a></h3>
-				<p><%= tangible.data.summary.html_safe %></p>
+	<h2 class="mt-0 alt_font text-3xl mb-4">Tangible Work</h2>
+	
+	<% paginator.resources.each_with_index do |tangible, index| %>
+		<a href="<%= tangible.relative_url %>">
+			<div href="<%= tangible.relative_url %>" class="flex flex-col min-[500px]:flex-row min-[500px]:mb-7">
+				<img class="object-cover w-full h-40 min-[500px]:h-auto min-[500px]:w-48 " src="<%= tangible.data.featured_image %>" alt="">
+				<div class="flex flex-col justify-between max-[499px]:pt-3 min-[500px]:p-4 leading-normal">
+					<div class="post-date"><%= tangible.data.date.to_date.strftime("%B %d, %Y") %></div>
+					<h5 class="mb-2 text-lg tracking-tight post-title leading-tight">
+						<%= tangible.data.title %>
+					</h5>
+					<p class="mb-0 font-normal text-black"><%= tangible.data.description.html_safe %></p>
+				</div>
 			</div>
-		</div>
+		</a>
+		<% unless index == paginator.resources.size - 1 %>
+			<hr class="mt-4 min-[500px]:mt-6 mb-6">
+		<% end %>
 	<% end %>
 	<% if paginator.total_pages > 1 %>
 		<div class="pagination flex justify-between">

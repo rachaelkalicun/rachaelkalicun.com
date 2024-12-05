@@ -99,9 +99,6 @@ footer {
 	@apply text-xs text-[#959595] font-medium;
 }
 
-.post-title {
-	margin-bottom: .25rem;
-}
 
 hr {
   border: none;

@@ -1,10 +1,11 @@
 ---
 layout: tangible_work
 title: "Soothing Roast Chicken, Comforting Soup, and an Expanded Cooking Vocabulary"
-description: I share my experience roasting chicken and learning what a spatchcocked chicken is, along with how I turned one bird into three comforting meals, including a delicious homemade chicken soup.
+description: My experience roasting chicken and learning what a spatchcocked chicken is, along with how I turned one bird into three comforting meals, including a delicious homemade chicken soup.
 date:  Oct 30, 2024
 categories: cooking
 summary: I can't think of many things more soothing than a roast chicken, specifically one that I've taken the time to roast. I crave this a couple of times a year, usually when the weather gets chillier and the days get shorter, and then again around Easter...
+featured_image: '/images/spatchcock-roast-chicken.jpg'
 ---
 
 I can't think of many things more soothing than a roast chicken, specifically one that I've taken the time to roast. I crave this a couple of times a year, usually when the weather gets chillier and the days get shorter, and then again around Easter. This time, at the butcher's counter, the person in front of me was also coincidentally buying a whole chicken. After some inaudible back and forth, I heard the butcher tell the customer, "I can spatchcock it for you."
