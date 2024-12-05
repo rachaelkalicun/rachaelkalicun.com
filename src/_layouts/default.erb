@@ -1,15 +1,17 @@
 <!doctype html>
 <html lang="<%= site.locale %>">
   <head>
-    <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-89ZFGKP12M"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
+		<% if ENV["BRIDGETOWN_ENV"] == "production" %>
+			<!-- Google tag (gtag.js) -->
+			<script async src="https://www.googletagmanager.com/gtag/js?id=G-89ZFGKP12M"></script>
+			<script>
+				window.dataLayer = window.dataLayer || [];
+				function gtag(){dataLayer.push(arguments);}
+				gtag('js', new Date());
 
-      gtag('config', 'G-89ZFGKP12M');
-    </script>
+				gtag('config', 'G-89ZFGKP12M');
+			</script>
+		<% end %>
     
     <%= render "head", metadata: site.metadata, title: data.title %>
     <link rel="preconnect" href="https://fonts.googleapis.com">
