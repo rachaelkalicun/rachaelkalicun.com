@@ -20,7 +20,7 @@
 				<img class="object-cover w-full h-40 min-[500px]:h-auto min-[500px]:w-48 " src="<%= tangible.data.featured_image %>" alt="">
 				<div class="flex flex-col justify-between max-[499px]:pt-3 min-[500px]:p-4 leading-normal">
 					<div class="post-date"><%= tangible.data.date.to_date.strftime("%B %d, %Y") %></div>
-					<h5 class="mb-2 text-lg tracking-tight post-title leading-tight">
+					<h5 class="mb-2 post-title">
 						<%= tangible.data.title %>
 					</h5>
 					<p class="mb-0 font-normal text-black"><%= tangible.data.description.html_safe %></p>
