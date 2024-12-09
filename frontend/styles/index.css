@@ -80,7 +80,7 @@ body > header ul {
 	list-style: none;
 }
 
-main {
+main, .main-width {
   max-width: 41rem;
   margin: 0 auto 1rem auto;
 }
