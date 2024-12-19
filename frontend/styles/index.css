@@ -10,8 +10,8 @@
 :root {
   --body-background: #fff;
   --body-color: #000;
-  --heading-color: #b64a70;
-  --action-color: #b64a70;
+  --heading-color: #bd0d5e;
+  --action-color: #bd0d5e;
 }
 
 body {
@@ -42,7 +42,7 @@ a {
   color: var(--action-color);
   /* text-decoration: underline; */
 	font-weight:500;
-  text-decoration-color: #b64a70;
+  text-decoration-color: #bd0d5e;
 }
 
 h1 {
