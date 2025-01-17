@@ -10,7 +10,7 @@ featured_image: '/images/varenyky_with_mushroom_sauce.jpg'
 
 ![Varenyky with mushroom sauce]( /images/varenyky_with_mushroom_sauce.jpg "Varenyky with mushroom sauce")
 
-It was two Christmas Eves, three kinds of dumplings, and two cultures honored. December 24, known as "regular Christmas," "Latynsʹkyy" (meaning ‘Latin'), or "English Christmas," has never held strong food traditions for me. Over the years, though, I've gradually fallen into  a pattern of making an involved  pasta dish I wouldn't normally make.
+It was two Christmas Eves, three kinds of dumplings, and two cultures honored. December 24, known as "regular Christmas Eve," "Latynsʹkyy" (meaning ‘Latin'), or "English Christmas Eve," has never held strong food traditions for me. Over the years, though, I've gradually fallen into  a pattern of making an involved  pasta dish I wouldn't normally make.
 
 Part of this is influenced by my mother-in-law, who is from Italy, but more than that, what better day than Christmas Eve to dedicate extra time and care to creating something special?
 
