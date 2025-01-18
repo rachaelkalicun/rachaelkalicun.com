@@ -99,6 +99,10 @@ footer {
 	@apply text-xs text-[#959595] font-medium;
 }
 
+.post-title {
+	@apply leading-normal;
+	margin-top: 2px;
+}
 
 hr {
   border: none;
