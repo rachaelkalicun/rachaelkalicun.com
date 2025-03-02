@@ -13,10 +13,6 @@ title: 'Home'
       </h3>
     </div>
   <% end %>
-	<div class="mt-2">
-		<a class="text-sm text-black" href="/evercooked/">All Evercooked updates →</a>
-	</div>
-	<hr class="mt-6">
 	<h2 class="mt-6 alt_font text-3xl">My Writing</h2>
   <% collections.posts[0..4].each do |post| %>
     <div class="mb-[15px] sm:mb-[20px]">
