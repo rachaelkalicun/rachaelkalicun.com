@@ -1,0 +1,39 @@
+---<%
+{
+	layout: :page,
+	title: "Evercooked updates",
+	description: "Updates on my Evercooked project.",
+	permalink: "/evercooked/",
+	paginate: {
+		collection: :evercooked,
+		per_page: 10
+	}
+}
+%>---
+
+<div class="mx-auto my-0 p-[20px] pb-[24px]">
+	<h1 class="mt-0 alt_font text-3xl">Evercooked Updates</h1>
+	<% paginator.resources.each do |post| %>
+		<div class="mb-5 sm:mb-10">
+			<div class="post-date"><%= post.data.date.to_date.strftime("%B %d, %Y") %></div>
+			<h3 class="post-title">
+				<a href="<%= post.relative_url %>"><%= post.data.title %></a>
+			</h3>
+			<p><%= post.data.summary.html_safe %></p>
+		</div>
+	<% end %>
+	<% if paginator.total_pages > 1 %>
+		<div class="pagination flex justify-between">
+			<% if paginator.previous_page %>
+			<div>
+				<a href="<%= paginator.previous_page_path %>">← Previous Page</a>
+			</div>
+			<% end %>
+			<% if paginator.next_page %>
+			<div>
+				<a href="<%= paginator.next_page_path %>">Next Page →</a>
+			</div>
+			<% end %>
+		</div>
+	<% end %>
+</div>

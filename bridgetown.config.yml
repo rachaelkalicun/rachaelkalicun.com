@@ -1,6 +1,6 @@
 # https://github.com/MikeRogers0/MikeRogersIO/blob/master/bridgetown.config.yml
 
-pagination: 
+pagination:
   enabled: true
 collections:
   posts:
@@ -25,8 +25,15 @@ collections:
     sort_by: order
     sort_direction: descending
     title: "Tangible Work"
+  evercooked:
+    permalink: /evercooked/:slug.*
+    output: true
+    sort_by: order
+    sort_direction: descending
+    title: "Evercooked"
 feed:
   collections:
     - tils
     - tangible_works
     - sprints
+    - evercooked
