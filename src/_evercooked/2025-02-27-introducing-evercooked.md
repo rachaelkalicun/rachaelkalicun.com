@@ -20,7 +20,7 @@ I also want to learn from others. I want to discover new dishes, understand how 
 Beyond personal connections, there’s a bigger need to preserve and share food traditions. Here’s why I believe this is so important:
 
 On an individual level, preserving food traditions helps create a connection to heritage and identity. It nurtures memory, creativity, and a sense of belonging. On a societal level, these traditions foster empathy and understanding across generations, cultures, and ethnicities.
-Evercooked is about more than just sharing recipes. It is about addressing real challenges:
+[Evercooked](https://www.evercooked.com/){:target="_blank"} is about more than just sharing recipes. It is about addressing real challenges:
 
 - **Preserving and sharing food traditions:** With each generation, irreplaceable knowledge disappears, making it more urgent than ever to document and pass on these stories.
 - **Fostering meaningful connections:** Social media is filled with passive consumption. How can we enable real engagement and shared experiences?
@@ -54,7 +54,7 @@ The key is to make the kitchen a place where confidence and creativity thrive. M
 Food is central to so many of life’s big occasions: birthdays, holidays, and significant life moments like weddings and funerals. It’s also central to the small moments which add up to a life worth living. Every meal, big or small, can carry meaning, and these moments deserve to be honored.
 
 ## Building in Public: Leading by Example
-Evercooked is still in the early stages, and I’m figuring things out as I go. It’s a work in progress, but I’m committed to creating something meaningful, piece by piece. From growing a community to developing the app and launching a newsletter, every step of this process matters.
+[Evercooked](https://www.evercooked.com/){:target="_blank"} is still in the early stages, and I’m figuring things out as I go. It’s a work in progress, but I’m committed to creating something meaningful, piece by piece. From growing a community, to developing the app, to building [a blog](https://www.evercooked.com/){:target="_blank"} and launching [a newsletter](https://evercooked.substack.com/){:target="_blank"}, every step of this process matters.
 
 By sharing the successes, challenges, and lessons learned along the way, I hope to show that it’s possible to create something from the ground up and that you don’t need to have everything figured out to start.
 
