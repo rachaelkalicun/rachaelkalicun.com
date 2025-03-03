@@ -1,11 +1,15 @@
 ---
 layout: evercooked
 title:  "Introducing Evercooked: Building a Community Around Food, Culture, and Legacy"
-description: "Discover the inspiration behind Evercooked, a space for sharing food stories, preserving traditions, and building connections. Learn why preserving food traditions is vital and how we can reconnect with our culinary heritage."
+description: "Learn about the inspiration behind Evercooked, a space for sharing food stories, preserving traditions, and building connections. Discover why preserving food traditions is vital and how we can reconnect with our culinary heritage."
 date: Mar 02, 2025
 categories: evercooked
 summary: Evercooked was inspired by years of meaningful conversations around food, culture, and memories. In this post, I reflect on how those experiences led me to create a space where people can share their food traditions, discover new dishes, and build connections through cooking. Join me as we explore the importance of preserving food traditions, fostering community, and rediscovering the joy in cooking...
+og_image: "/images/evercooked.png"
+og_title: "Introducing Evercooked: Building a Community Around Food, Culture, and Legacy"
 ---
+
+<img src="/images/evercooked.png" alt="Evercooked logo" width="200"/>
 
 When I left my job, I thought a lot about the 11 years of conversations I had around food and culture. From day one, I built relationships that often turned into discussions about cooking, sometimes one-on-one and sometimes in our watercooler Slack channel. These conversations weren't just about recipes. They were about personal connections rooted in diverse histories and traditions.
 
