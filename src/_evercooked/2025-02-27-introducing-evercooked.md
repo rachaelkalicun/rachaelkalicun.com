@@ -61,3 +61,6 @@ By sharing the successes, challenges, and lessons along the way, I hope to show 
 If you’re working on your own project or dream, I hope this inspires you to take the first step. Building something meaningful takes courage and consistency, but we don’t have to do it alone.
 
 I’d love to hear from you. What food traditions do you cherish? What stories do you want to pass down? What are you building?
+
+- Visit the [Evercooked blog](https://www.evercooked.com/){:target="_blank"}.
+- Sign up for the [Substack newsleter](https://evercooked.substack.com/){:target="_blank"}.
