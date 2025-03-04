@@ -54,7 +54,7 @@ It starts with making the kitchen a place where confidence and creativity thrive
 
 ## Celebrating Occasions: Honoring Both Big and Small Traditions
 
-Food is central to so many of life’s occasions: birthdays, holidays, and significant life events like weddings and funerals. It also shapes the smaller moments of our daily lives. Every meal, big or small, is an opportunity to honor tradition, create memories, and celebrate the connections that food brings.
+Food is central to so many of life’s occasions: birthdays, holidays, and significant life events like weddings and funerals. It also shapes the smaller moments of our daily lives. Every meal, big or small, is an opportunity to honor traditions, create memories, and celebrate the connections that food brings.
 
 
 ## Building in Public: Leading by Example
@@ -62,9 +62,9 @@ Evercooked is still in its early stages, and I’m figuring things out as I go. 
 
 By sharing the successes, challenges, and lessons along the way, I hope to show that you don’t need to have everything figured out to start. Creating something from the ground up is hard, daunting, and takes time, but it's worth it.
 
-If you’re working on your own project or dream, I hope this inspires you to take the first step. Building something meaningful takes courage and consistency, but we don’t have to do it alone.
+If you’re thinking about your own project or dream, I hope this inspires you to take the first step. Building something meaningful takes courage and consistency, but we don’t have to do it alone.
 
 I’d love to hear from you. What food traditions do you cherish? What stories do you want to pass down? What are you building?
 
 - Visit the [Evercooked blog](https://www.evercooked.com/){:target="_blank"}.
-- Sign up for the [Substack newsleter](https://evercooked.substack.com/){:target="_blank"}.
+- Sign up for the [Substack newsletter](https://evercooked.substack.com/){:target="_blank"}.
