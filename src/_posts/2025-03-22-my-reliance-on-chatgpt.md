@@ -5,6 +5,7 @@ description: "A personal story about how AI shifted from being a helpful tool to
 date: March 22, 2025
 categories: AI
 summary: I let ChatGPT take over and write this article for me. What started as a tool has become a collaborator—and it’s making me rethink how AI is changing how we work, think, and create...
+og_image: "/images/chatgpt-partner.jpg"
 ---
 
 <img src="/images/chatgpt-partner.jpg" alt="My ChatGPT Business Partner"/>
