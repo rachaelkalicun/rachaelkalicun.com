@@ -4,15 +4,6 @@ title: 'Home'
 ---
 
 <div class="mx-auto my-0 p-[20px] pb-1">
-	<h2 class="mt-0 alt_font text-3xl">Evercooked Updates</h2>
-  <% collections.evercooked[0..4].each do |evercooked| %>
-    <div class="mb-[15px] sm:mb-[20px]">
-			<div class="post-date"><%= evercooked.data.date.to_date.strftime("%B %d, %Y") %></div>
-      <h3 class="post-title">
-        <a href="<%= evercooked.relative_url %>"><%= evercooked.data.title %></a>
-      </h3>
-    </div>
-  <% end %>
 	<h2 class="mt-6 alt_font text-3xl">My Writing</h2>
   <% collections.posts[0..4].each do |post| %>
     <div class="mb-[15px] sm:mb-[20px]">
@@ -22,6 +13,16 @@ title: 'Home'
       </h3>
     </div>
   <% end %>
+	<h2 class="mt-0 alt_font text-3xl">Evercooked Updates</h2>
+  <% collections.evercooked[0..4].each do |evercooked| %>
+    <div class="mb-[15px] sm:mb-[20px]">
+			<div class="post-date"><%= evercooked.data.date.to_date.strftime("%B %d, %Y") %></div>
+      <h3 class="post-title">
+        <a href="<%= evercooked.relative_url %>"><%= evercooked.data.title %></a>
+      </h3>
+    </div>
+  <% end %>
+
 	<div class="mt-2">
 		<a class="text-sm text-black" href="/blog/">All blog posts →</a>
 	</div>
