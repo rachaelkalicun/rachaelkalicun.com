@@ -7,9 +7,9 @@ categories: improvement
 summary: Sometimes we stay innocent for a good part of our lives. It's a combination of luck and a good dose of denial...
 ---
 
-Sometimes we stay innocent for a good part of our lives. It's a combination of luck and a good dose of denial. Then one day something happens, and it becomes impossible to stay innocent anymore. It's a gut punch. It's a cruel reminder from the universe that you aren't special or immune and neither are your friends.
+Sometimes we stay innocent for a large part of our lives. It's a combination of luck and a good dose of denial. Then one day something happens, and it becomes impossible to stay innocent anymore. It's a gut punch. It's a cruel reminder from the universe that you aren't special or immune and neither are your friends.
 
-I think back 16 months to a conversation with my oldest, dearest friend. It was one of those significant moments when you acknowledge time marching forward, and you question how your time is spent. We both agreed we couldn't keep staying in jobs that didn't bring us fulfillment. Time is too short, we said.
+I think back 16 months to a conversation with my oldest, dearest friend. It was one of those significant moments when you acknowledge time marching forward, and you question how your time is spent. We both agreed we couldn't keep staying in jobs that didn't bring us fulfillment. The time we have is too short, we said.
 
 I kept my word. I walked away from that job. It wasn't easy, but I did it. Creating a new, meaningful life hasn't been easy, either, but at least I still have a chance to try. I don't know if my friend does. That's the harsh truth.
 
