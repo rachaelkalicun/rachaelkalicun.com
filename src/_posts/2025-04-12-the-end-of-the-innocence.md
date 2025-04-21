@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The End of the Innocence"
+title:  "The End of Innocence"
 description: A reflection on the loss of innocence, the urgency of living meaningfully, and the importance of bold action in the face of life's unpredictable twists. A personal journey of embracing change, pursuing purpose, and learning to cherish time.
 date: Apr 21, 2025
 categories: improvement
