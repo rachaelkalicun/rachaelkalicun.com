@@ -11,9 +11,7 @@ On May 10, I was in Erik’s dining room, but he wasn’t there. Just pictures o
 
 His aunt and I stood in the dining room. She told me the table and chairs had been her mother’s. Then they were Erik’s mother’s. “You probably remember them from her house,” she said, and I did. Now, they were Erik’s.
 
-That table had held a family and countless birthdays, Christmases, Easters, Thanksgivings, celebrations, and mourning. It held Erik, until it couldn’t anymore.
-
-The table showed me a family completely different from mine: loud, Italian, with protective brothers I never had. Like a proper Italian family, love and pride lived in their food. Erik’s mother opened my eyes to the beauty of a simple, real Italian sauce. Years later, as an adult, I asked her about it, and the technique couldn’t have been simpler.
+That table held a family and its countless birthdays, Christmases, Easters, Thanksgivings, celebrations, and mourning. It held Erik, until it couldn’t anymore. Like a proper Italian family, love and pride lived in their food at that table. Erik’s mother opened my eyes to the beauty of a simple, real Italian sauce. Years later, as an adult, I asked her about it, and the technique couldn’t have been simpler.
 
 She was one of the first people who made me feel like my cooking mattered. On Instagram, she cheered me on before I had a project. I think about her all the time when I’m working on Evercooked. I wish she were here to see it grow. I know that if no one else saw the value in it, she would.
 
@@ -21,18 +19,23 @@ The last time I saw Erik was at her funeral on December 15, 2023. I was so grate
 
 There’s no one like the person who grew up closest to you. He knew parts of me that no one else did. We shared a long stretch of life that shaped us both. There’s something especially sad about losing someone who knew you and loved you before the walls went up.
 
-You can make sense of an 80-year-old dying suddenly, even a healthy one, but not her child. I remember Erik saying at her funeral that he only wished he’d had more years with her. I wish I had more years with Erik in this world.
+You can make sense of an 80-year-old dying suddenly, even a healthy one, but not her child. I remember Erik saying at her funeral that he only wished he’d had more years with her.
+
+I wish I had more years with Erik in this world.
 
 The world moves on so fast now, doesn’t it? His mother’s funeral was full. People showed up, but there weren’t that many at Erik’s. That disappointed me so much. A young, vibrant, beloved person already being forgotten.
 
-I don’t want people to forget Erik or his mother.
-When Erik first died, I started writing down memories, things I didn’t want to lose. I wish I could remember more details, but I don’t want to forget anything else. I’ll keep adding to this list over time. I don’t want to let them slip away.
+I don’t want people to forget Erik.
+
+A couple of days after Erik died, I started writing down memories, things I didn’t want to lose. I wish I could remember more details, but I don’t want to forget anything else. I’ll keep adding to this list over time. I don’t want to let them slip away.
 
 ---
 
 ## May 5, 2025
 
 <img src="/images/erik-rachael.jpg" alt="erik and rachael" />
+Erik and Rachael about 14 years old
+{: .caption }
 
 We were two weird kids who found each other and bonded unconditionally. My best friend. My partner in crime. The boy who put up with a girl’s teenage angst. I want to remember more details like when we really became friends, and how.
 
