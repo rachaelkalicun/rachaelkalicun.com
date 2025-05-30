@@ -5,6 +5,7 @@ description: A personal reflection on losing a lifelong friend, and the quiet ac
 categories: personal
 layout: post
 summary: Even if you never knew Erik, I hope this helps you understand who he was and why I still carry him with me.
+og_image: "/images/erik.jpg"
 ---
 
 On May 10, I was in Erik's dining room, but he wasn't there. Just pictures of someone who used to exist. 46 years old. 2 months younger than me.
