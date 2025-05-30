@@ -11,9 +11,9 @@ On May 10, I was in Erik’s dining room, but he wasn’t there. Just pictures o
 
 His aunt and I stood in the dining room. She told me the table and chairs had been her mother’s. Then they were Erik’s mother’s. “You probably remember them from her house,” she said, and I did. Now, they were Erik’s.
 
-That table held a family and its countless birthdays, Christmases, Easters, Thanksgivings, celebrations, and mourning. It held Erik, until it couldn’t anymore. Like a proper Italian family, love and pride lived in their food at that table. Erik’s mother opened my eyes to the beauty of a simple, real Italian sauce. Years later, as an adult, I asked her about it, and the technique couldn’t have been simpler.
+That table held a family and its countless birthdays, Christmases, Easters, Thanksgivings, celebrations, and mourning. It held Erik, until it couldn’t anymore.
 
-She was one of the first people who made me feel like my cooking mattered. On Instagram, she cheered me on before I had a project. I think about her all the time when I’m working on Evercooked. I wish she were here to see it grow. I know that if no one else saw the value in it, she would.
+Like a proper Italian family, love and pride lived in their food at that table. Erik’s mother opened my eyes to the simple beauty of a real Italian sauce. Years later, as an adult, I got to ask her about the technique. I wish she were here to see what I'm working on. I know that if no one else saw the value in it, she would.
 
 The last time I saw Erik was at her funeral on December 15, 2023. I was so grateful to be there to honor her and to support him, but I can’t believe that was the end of Erik and me.
 
