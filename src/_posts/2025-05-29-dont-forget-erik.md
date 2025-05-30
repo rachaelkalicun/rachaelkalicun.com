@@ -67,7 +67,7 @@ I'm including Erik's obituary here, too, in case it ever disappears in other pla
 
 Know him even if you never did.
 
-<div class="bg-gray-100 text-sm text-gray-700 p-4 rounded-md">
+<div class="bg-gray-100 text-xs p-4 rounded-md leading-loose">
 <img src="/images/erik.jpg" width="250" alt="erik" class="md:float-left md:pr-3 my-0 mx-auto pb-3" />
 
 <p>Erik Martin VanBuren, 46, passed away on May 3, 2025, in Pittsburgh, Pennsylvania. Born on July 17, 1978, in New Castle, Pennsylvania, Erik lived a life marked by curiosity, compassion, and a vibrant spirit that touched all who knew him.</p>
