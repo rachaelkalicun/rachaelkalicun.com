@@ -16,7 +16,7 @@ That table held a family and its countless birthdays, Christmases, Easters, Than
 
 Like a proper Italian family, love and pride lived in their food at that table. Erik's mother opened my eyes to the simple beauty of a real Italian sauce. Years later, as an adult, I got to ask her about the technique. I wish she were here to see what I'm working on. I know that if no one else saw the value in it, she would.
 
-The last time I saw Erik was at her funeral on December 15, 2023. I was so grateful to be there to honor her and to support him, but it's hard for me to grasp it was the last time. You can make sense of an 80-year-old dying suddenly, even a healthy one, but not her child. I remember Erik saying that he only wished he'd had more years with her. I wish I had more years with Erik in this world.
+The last time I saw Erik was at her funeral on December 15, 2023. I was so grateful to be there to honor her and to support him, but it's hard for me to grasp it was the _last_ time. You can make sense of an 80-year-old dying, even a healthy one, but not her child. I remember Erik saying that he only wished he'd had more years with her. I wish I had more years with Erik in this world.
 
 Erik and I had a rare friendship and shared a long stretch of life that shaped both of us. There's something especially sad about losing someone who knew you and loved you at your most genuine, before adulthood and all the guardedness that comes with it.
 
@@ -33,7 +33,7 @@ A couple of days after Erik died, I started writing down memories, things I didn
 <div class="text-center text-xl mb-4 mt-1 alt_font">Around 14 years old</div>
 
 <div class="text-[#a06b28] text-xs leading-loose">
-	<p>You and I were two weird kids that didn't fit in who found each other and bonded unconditionally, eventually becoming best friends and partners in crime.</p>
+	<p>You and I were two weird kids who didn't fit in, found each other, and bonded unconditionally. We eventually became best friends and partners in crime.</p>
 	<p>I wish I could remember more details like when we <i>really</i> became friends and how that happened.</p>
 
 	<p class="mb-0">What I do remember:</p>
@@ -64,7 +64,7 @@ A couple of days after Erik died, I started writing down memories, things I didn
 </div>
 
 
-I'm including Erik's obituary here, too, in case it ever disappears in other places.
+I'm saving Erik's obituary here, too, in case it ever disappears in other places.
 
 Know him even if you never did.
 
