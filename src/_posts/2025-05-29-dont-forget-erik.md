@@ -30,7 +30,7 @@ A couple of days after Erik died, I started writing down memories, things I didn
 	<p class=" text-3xl mb-2 alt_font mt-2">May 5, 2025</p>
 
 <img src="/images/erik-rachael.jpg" alt="erik and rachael" />
-<div class="text-center text-xl mb-4 mt-1 alt_font">Around 14 years old</div>
+<div class="text-center text-xl mb-4 mt-1 alt_font">Around 14 years old at Erik's house</div>
 
 <div class="text-[#a06b28] text-xs leading-loose">
 	<p>You and I were two weird kids who didn't fit in, found each other, and bonded unconditionally. We eventually became best friends and partners in crime.</p>
