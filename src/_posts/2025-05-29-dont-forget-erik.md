@@ -52,10 +52,8 @@ A couple of days after Erik died, I started writing down memories, things I didn
 		<li>The dollar theater</li>
 		<li>The endless movies we watched at your house because of your dad's video store</li>
 	</ul>
-	<p>
-		We were Gen X kids free to roam the world together.<br>
-		We were so lucky.
-	</p>
+	<p>Weren't we lucky, Erik? Two Gen X kids with the freedom to roam the world together. No phones. No questions asked. Just a "be home by midnight." We always made it...even if our cars sometimes didn't.</p>
+
 </div>
 </div>
 
