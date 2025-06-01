@@ -10,6 +10,9 @@
 		<%= metadata.title %>
 	<% end %>
 </title>
+<% if resource.data.robots == 'noindex' %>
+	<meta name="robots" content="noindex">
+<% end %>
 <meta property="og:title" content="<%= resource.data.og_title || resource.data.title %>" />
 <meta property="og:description" content="<%= resource.data.og_description || resource.data.description %>" />
 <meta property="og:image" content="https://www.rachaelkalicun.com<%= resource.data.og_image %>" />
