@@ -58,9 +58,35 @@ A couple of days after Erik died, I started writing down memories, things I didn
 </div>
 </div>
 
+<div class="bg-[#fff7eb] border-2 border-[#f7d6ad] px-5 py-0 mb-8 rounded-md shadow-sm mt-5">
+	<p class=" text-3xl mb-2 alt_font mt-2">June 8, 2025</p>
+	<img src="/images/erik-1992-gateway-clipper.jpg" alt="erik gateway clipper 1992" />
+	<div class="text-center text-xl mb-4 mt-1 alt_font">Gateway Clipper – Pittsburgh 1992</div>
+
+<div class="text-[#a06b28] text-xs leading-loose">
+	<ul>
+		<li>Your silly, infectious laugh</li>
+		<li>Going on the Gateway Clipper for school field trips and after dances</li>
+		<li>When you lived in Vegas, you told me the Wheel of Fortune slot machine was the best, and it still is</li>
+		<li>Being at my Elvis Las Vegas wedding (the real wedding!). You arranged an "after party" at Peppermill.</li>
+		<li>The British pub you took me to in Las Vegas where I had warm Scotch eggs</li>
+		<li>Showing off the Palms casino to me when it was new and very hip</li>
+		<li>Taking me to downtown Las Vegas</li>
+		<li>I saw The Rocky Horror Picture Show once...near Pitt when I visited you</li>
+		<li>I tried the soft-shell crab sushi you ordered and gagged at the horrible crunching between my teeth</li>
+		<li>NYC with our moms. Your mom had sore feet and we sat on the steps of the NY Public Library. You two saw Miss Saigon, and I have no idea what show my mom and I saw. We decided on a whim to go see a movie in New Jersey where we were staying (I think it was The Pelican Brief.) Our mothers were upset when we appeared three hours later thinking something bad had happened to us...LOL</li>
+		<li>NYC that other time ;-)</li>
+		<li>So many fun nights at TGI Friday's. I always ordered the chicken teriyaki skewers or the potato skins.</li>
+	</ul>
+
+</div>
+</div>
+
 <div class="mb-4">
 <hr>
 </div>
+
+
 
 
 I'm saving Erik's obituary here, too, in case it ever disappears in other places.
