@@ -82,6 +82,35 @@ A couple of days after Erik died, I started writing down memories, things I didn
 </div>
 </div>
 
+
+<div class="bg-[#fff7eb] border-2 border-[#f7d6ad] px-5 py-0 mb-8 rounded-md shadow-sm mt-5">
+	<p class=" text-3xl mb-2 alt_font mt-2">July 17, 2025</p>
+	<img src="/images/bill-hillary.jpg" alt="Erik and Rachael as Bill and Hillary" class="mx-auto" />
+	<div class="text-center text-xl mb-4 mt-1 alt_font">As President and Mrs. Clinton</div>
+
+<div class="text-[#a06b28] text-xs leading-loose">
+	<p>It's your birthday. I wish I could text you happy birthday wishes today. Over two months on now, and this still doesn't compute. Sometimes I stare in disbelief. Sometimes I mutter obscenities. Sometimes I shake my head. I just can't wrap my head around it.</p>
+	<p class="mb-0">Today, on your birthday, I remember:</p>
+	<ul>
+		<li>Your silly, infectious laugh</li>
+		<li>Your gentle spirit</li>
+		<li>Your adorable love for Madonna and Whitney Houston</li>
+		<li>You took me to the Hoover Dam when I visited you in Las Vegas. Thank you for taking me there</li>
+		<li>Seeing <i>Evita</i> together after you moved to Pittsburgh</li>
+		<li>Our shared love for <i>The Golden Girls</i>. "Lesbian? Lesbian? LESBIAN!?" :-)</li>
+		<li>You liked the Toadies' "Possum Kingdom", which I only recently realized is a terrifying song, and now I don't want to listen to it</li>
+		<li>That Christmas Eve we went to Denny's because it was the only place open. I can still feel what it was like being there that cold, dark night</li>
+		<li>That summer day we took a bucket of KFC to the beach at Lake Erie</li>
+		<li>Buying skinny, feminine cigarettes during your smoking phase. Luckily, my smoking habit didn’t stick because I'd be so mad at you </li>
+		<li>Our pure hearts came to understand that bullies exist, that some people cause pain for no reason. It was a life lesson that was hard for both of us to accept, but we faced it together</li>
+		<li>The Ouija board. Patience Worth. John Candy, your dog Candy, and one more unknown Candy. The night of March 3, 1994. The morning of March 4. Real things. Scary things. Evil things. But it left me convinced that <i>something else</i> exists. It has to. There's hope in that, isn't there?</li>
+</ul>
+<p>I hope that Whitney’s serenading you today just like you deserve, my sweetest friend.</p>
+
+
+</div>
+</div>
+
 <div class="mb-4">
 <hr>
 </div>
