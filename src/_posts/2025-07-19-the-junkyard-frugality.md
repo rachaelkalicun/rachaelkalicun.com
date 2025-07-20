@@ -31,7 +31,7 @@ Not being able to find something on the internet completely broke my naive Ameri
 
 Then I remembered Grandpa. I remembered that he would’ve gone to the junkyard. Still, I felt too delicate, and too superior, for that. Instead, I took the car to the dealership. I was submissive, fully accepting my fate: ready to be fleeced and willing to pay whatever it took to make the problem go away.
 
-I showed the man my problem. He went to consult with his parts guy. Then they came back to me and crushed my American brain one more time: “There’s nothing we can do. That part is discontinued. When your car is this old, you need to start expecting that you’ll have to go to the junkyard to fix it.”
+I showed the man my problem. He went to consult with his parts guy. Then they came back to me and crushed my American optimism one more time: “There’s nothing we can do. That part is discontinued. When your car is this old, you need to start expecting that you’ll have to go to the junkyard to fix it.”
 
 That’s when I started to spiral. Was this it? Was this the moment I finally turned my back on frugality and bought a new car? I’d always imagined I’d give up the Saturn when something major happened, like when the transmission died. I didn’t think it would be over a small, discontinued part for the trunk lid. I was flirting with the idea of a new car.
 
@@ -50,7 +50,7 @@ I was a little disappointed when I arrived, though: no junkyard dog. From the mo
 
 The mission was successful. With the part in hand, I expected to pay maybe half of what the other rod was going for on eBay: $32.50. The guy rang it up: $2.65.
 
-My frugal brain immediately lit up. _Why aren’t more people doing this? Why didn’t I know about this?_ It felt like discovering a loophole, a new life hack. My entrepreneurial brain even kicked in. Should I start flipping junkyard parts online?
+I immediately lit up. _Why aren’t more people doing this? Why didn’t I know about this?_ It felt like discovering a loophole, a new life hack. My entrepreneurial spirit even kicked in. Should I start flipping junkyard parts online?
 
 It was more than just a win. It was more than just a lesson in self-sufficiency or frugality.  It was a new life experience, which doesn’t happen that often anymore. It was an achievement unlocked. A little moment of growth. An experience that brings pride.
 
