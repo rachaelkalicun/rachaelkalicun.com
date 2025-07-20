@@ -37,18 +37,18 @@ That’s when I started to spiral. Was this it? Was this the moment I finally tu
 
 Like a seductive temptress, a new Mini Cooper invaded my thoughts: digital displays, Bluetooth, a trunk lid that stayed open (and was definitely powered), and the kind of life most people seem to live.  I went home and specced one out. It came to about $45,000. That’s not so bad, right? I’ll keep it for another 20 years.
 
-![Not Your Grandpa’s Junkyard](/images/not-your-grandpas-junkyard.jpg "Not Your Grandpa’s Junkyard")
 
 Then I snapped out of it. I decided I’d go to the junkyard. I was impressed before I even got there. It was surprisingly high tech. The website showed me the five Saturn Ions currently there, when they arrived, and which rows they were in. The junkyard’s tagline was even “Not Your Grandpa’s Junkyard” but a claim I can’t actually confirm since I never went with my grandpa to _his_ junkyard.
 
-
-![Junkyard Row](/images/junkyard-row.jpg "Junkyard Row")
+![Not Your Grandpa’s Junkyard](/images/not-your-grandpas-junkyard.jpg "Not Your Grandpa’s Junkyard")
 
 I was a little disappointed when I arrived, though: no junkyard dog. From the movies, I always assumed there’d be one, especially scary and drooly. No dog, just endless rows of cars that had been laid to rest.
 
-![Saturn Junkyard](/images/saturn-junkyard.jpg "Saturn Junkyard")
+![Junkyard Row](/images/junkyard-row.jpg "Junkyard Row")
 
 The mission was successful. With the part in hand, I expected to pay maybe half of what the other rod was going for on eBay: $32.50. The guy rang it up: $2.65.
+
+![Saturn Junkyard](/images/saturn-junkyard.jpg "Saturn Junkyard")
 
 I immediately lit up. _Why aren’t more people doing this? Why didn’t I know about this?_ It felt like discovering a loophole, a new life hack. My entrepreneurial spirit even kicked in. Should I start flipping junkyard parts online?
 
