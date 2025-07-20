@@ -9,7 +9,7 @@ summary: Learning a forgotten frugal trick from my grandpa. All it took was a ju
 
 ![Junkyard](/images/junkyard.jpg "Junkyard")
 
-As an annoyingly proud practitioner of frugality, I thought I knew all the angles. I know grocery store prices and how to game the system when it comes to sales. I know how and when to travel for the best deals. I don’t spend money on expensive cell phones or subscriptions. I use a 2015 MacBook Pro I bought from my job for $250. I cook a lot. I [freeze ingredients](/blog/mushrooms-creative-frugality) when they’re cheap. I [track and categorize](/blog/cash-flow-tracking) money coming in and going out. I drive a 2006 Saturn Ion that I bought new for $17,000.
+As an annoyingly proud practitioner of frugality, I thought I knew all the angles. I know grocery store prices and how to game the system when it comes to sales. I know how and when to travel for the best deals. I don’t spend money on expensive cell phones or subscriptions. I use a 2015 MacBook Pro I bought from my job for $250. I cook a lot. I [freeze ingredients](/blog/mushrooms-creative-frugality) when they’re cheap. I [track and categorize](/blog/cash-flow-tracking) money coming in and going out. I drive a 2006 Saturn Ion that I bought new for about $17,000.
 
 I thought I knew it all, and I thought I was an expert. Ha! Just an amateur, it turns out.
 
