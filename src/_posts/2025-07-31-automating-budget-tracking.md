@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Freedom Is Writing a Ruby Script for a Week To Track My Finances"
+title: "Why I Spent a Week Writing a Ruby Script to Track My Spending"
 date: Aug 4, 2025
 description: "An update to my spreadsheet-based budgeting system with rule-based categorization, CSV normalization, and automation."
 summary: After a year without a paycheck, I built a Ruby script to see if this life is still sustainable...
