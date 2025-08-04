@@ -121,7 +121,7 @@ It handles:
 
 ## Categorization: My Rules
 
-Regex-based rules tag most expenses automatically:
+Regex-based rules tag most transactions automatically:
 
 ```ruby
 CATEGORIZATION_RULES = {
@@ -218,7 +218,7 @@ This script helps me protect the long game.
 
 ## Why I Didn't Use AI (This Time)
 
-I initially thought this project might be the perfect place to use (try for the first time!) AI to analyze and categorize transactions, but once I started implementing my regex rules, I realized I didn’t need it.
+I initially thought this might be the perfect place to try AI for the first time in a project for analyzing and categorizing transactions, but once I started implementing my regex rules, I realized I didn’t need it.
 
 Regex gave me full control, predictable behavior, and fast results.
 
