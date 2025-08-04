@@ -206,13 +206,13 @@ After running the tool and reviewing the results:
 
 ---
 
-## Freedom Revisited
+## Why It Mattered
 
-Spending a week building this tool is a form of wealth but so is the choice to even care about financial visibility.
+Spending a week writing this script wasn’t a detour or a distraction. It was work that keeps everything else possible. It was a reality check and a way to make sure I’m not fooling myself about what this life actually costs.
 
-This kind of freedom is the kind of wealth I want to preserve. To do that, I need to be sure the machine I’ve built for myself can keep running.
+I want to make money from the projects I care about, but that won’t happen right away. I want to keep going without destroying the future I worked so hard to buy.
 
-This script helps me with that.
+This script helps me protect the long game.
 
 ---
 
