@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Wealth Is Writing a Ruby Script for a Week To Track My Freedom, Not Just My Finances"
+title: "Freedom Is Writing a Ruby Script for a Week To Track My Finances"
 date: Aug 4, 2025
-description: "An update to my spreadsheet-based budgeting system — now with rule-based categorization, CSV normalization, and a little AI magic."
-summary: lorem...
+description: "An update to my spreadsheet-based budgeting system with rule-based categorization, CSV normalization, and automation."
+summary: After a year without a paycheck, I built a Ruby script to see if this life is still sustainable...
 categories: frugality
 ---
 
