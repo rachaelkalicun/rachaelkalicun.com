@@ -52,7 +52,7 @@ The script I wrote is built in Ruby and designed to handle a bunch of financial 
 - skips known patterns like credit card payments or IRS refunds
 - auto-categorizes transactions
 - has special logic for Amazon orders
-- splits the data into `income.csv` and `expenses.csv`
+- splits the data into income.csv and expenses.csv
 - outputs clean, ready-to-import files for [The Measure of a Plan budget tracking tool](https://themeasureofaplan.com/budget-tracking-tool/){:target="_blank"}
 
 ![Data](/images/financial-tracking-spreadsheet.jpg "Data")
@@ -144,7 +144,7 @@ CATEGORIZATION_RULES_AMAZON = {
 }
 ```
 
-Multi-item Amazon orders like `Dog food; Paper towels` are flagged in a "Notes" column as "Amazon Multi Order" so I can pull them apart manually.
+Multi-item Amazon orders like "Dog food; Paper towels" are flagged in a "Notes" column as "Amazon Multi Order" so I can pull them apart manually.
 
 ---
 
@@ -195,7 +195,7 @@ I used the [AZAD Chrome extension](https://github.com/philipmulcahy/azad){:targe
 After running the tool and reviewing the results:
 
 - I’m still on track. If I follow the 4% rule, my expenses are in a sustainable zone.
-- Health insurance is the biggest cost, followed by groceries, then home-related expenses.
+- Health insurance is the biggest cost, followed by groceries, then home-related expenses. Unfortunately, health insurance and home costs will continue to go up each year so that's a concern.
 - Categorizing took 10 minutes. The regex rules covered almost everything.
 - The CSV downloads remain the most painful part.
 
