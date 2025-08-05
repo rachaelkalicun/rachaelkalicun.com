@@ -47,13 +47,13 @@ I wanted to answer the real question with real data:
 
 The script I wrote is built in Ruby and designed to handle a bunch of financial institution CSV formats. It:
 
-- Standardizes columns like date, description, and amount
-- Automatically flips debits/credits when needed
-- Skips known patterns like credit card payments or IRS refunds
-- Auto-categorizes transactions
-- Has special logic for Amazon orders
-- Splits the data into `income.csv` and `expenses.csv`
-- Outputs clean, ready-to-import files for [The Measure of a Plan budget tracking tool](https://themeasureofaplan.com/budget-tracking-tool/){:target="_blank"}
+- standardizes columns like date, description, and amount
+- automatically flips debits/credits when needed
+- skips known patterns like credit card payments or IRS refunds
+- auto-categorizes transactions
+- has special logic for Amazon orders
+- splits the data into `income.csv` and `expenses.csv`
+- outputs clean, ready-to-import files for [The Measure of a Plan budget tracking tool](https://themeasureofaplan.com/budget-tracking-tool/){:target="_blank"}
 
 ![Data](/images/financial-tracking-spreadsheet.jpg "Data")
 
@@ -112,10 +112,10 @@ The script parses and standardizes each row like this:
 
 It handles:
 
-- Different date formats
-- Amounts with `$`, commas, signs, or parentheses
-- Credit card vs bank account polarity
-- Proper and sometimes custom classifcation of expenses vs. income
+- different date formats
+- amounts with `$`, commas, signs, or parentheses
+- credit card vs bank account polarity
+- proper and sometimes custom classifcation of expenses vs. income
 
 ---
 
@@ -183,10 +183,9 @@ I used the [AZAD Chrome extension](https://github.com/philipmulcahy/azad){:targe
 ## Remaining Limitations
 
 - Downloading CSVs is still annoying. Each institution is different. It’s the most tedious part. Could I build something to automate this? Maybe, but I don’t want to spend more time on this project right now.
-
-- Adding a new account is a manual step. I have to update the script with format info.
-
-
+- Adding a new account is a manual step. I have to update the script with format info and unit tests.
+- Categorizing new types of purchases is a manual step to add regex rules.
+- Amazon orders with different categories of items requires pulling them apart manually, figuring out each amount and category. I can see myself just ignoring these and giving them one category that won't be relevant to all items.
 - Gift cards: I often buy gift cards around Thanksgiving when bonuses are offered. Should I count the expense when I buy the gift card or when I use it? If I count it at purchase, I lose granularity of categories. (I could buy groceries at Target or motor oil.) If I try to track it at usage, there's no clean electronic trail.
 
 ---
@@ -208,9 +207,9 @@ After running the tool and reviewing the results:
 
 ## Why It Mattered
 
-Spending a week writing this script wasn’t a detour or a distraction. It was work that keeps everything else possible. It was a reality check and a way to make sure I’m not fooling myself about what this life actually costs.
+Spending a week writing this script was something I wanted to do for fun, but it is also really useful and practical. Knowing one's financial state is imperative so that every other desired pursuit can continue.
 
-I want to make money from the projects I care about, but that won’t happen right away. I want to keep going without destroying the future I worked so hard to buy.
+I want to make money from projects I care about, but that won’t happen right away. Maybe not for a long time. That doesn't mean I don't want to keep doing them, but I also don't want to destroy the future I built and worked so hard for in the meantime.
 
 This script helps me protect the long game.
 
@@ -218,7 +217,7 @@ This script helps me protect the long game.
 
 ## Why I Didn't Use AI (This Time)
 
-I initially thought this might be the perfect place to try AI for the first time in a project for analyzing and categorizing transactions, but once I started implementing my regex rules, I realized I didn’t need it.
+I initially thought this might be the perfect place to try AI for the first time in a project to analyze and categorize transactions, but once I started implementing my regex rules, I realized I didn’t need it.
 
 Regex gave me full control, predictable behavior, and fast results.
 
