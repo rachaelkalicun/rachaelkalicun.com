@@ -111,6 +111,17 @@ A couple of days after Erik died, I started writing down memories, things I didn
 </div>
 </div>
 
+<div class="bg-[#fff7eb] border-2 border-[#f7d6ad] px-5 py-0 mb-8 rounded-md shadow-sm mt-5">
+	<p class=" text-3xl mb-2 alt_font mt-2">September 11, 2025</p>
+	<img src="/images/erik-rachael-world-trade-center.jpg" alt="Erik and Rachael with Twin Towers" class="mx-auto" />
+	<div class="text-center text-xl mb-4 mt-1 alt_font">Around 16 years old in New York</div>
+
+<div class="text-[#a06b28] text-xs leading-loose">
+	<p>It’s September 11. I came across this picture of us with the Twin Towers in the background. The world is so different now, not only because of what happened that day, but because you’re no longer here. I miss you, buddy, and I'm sad you're gone.</p>
+
+</div>
+</div>
+
 <div class="mb-4">
 <hr>
 </div>
