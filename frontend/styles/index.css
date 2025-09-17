@@ -145,3 +145,13 @@ svg {
 	display: inline;
 	vertical-align: unset;
 }
+
+blockquote {
+	border-left: 4px solid #daf2de;
+	margin-left: -1rem;
+	margin-right: -1rem;
+	padding-left: 1rem;
+	color: #07941f;
+	font-style: italic;
+	@apply mb-4;
+}
