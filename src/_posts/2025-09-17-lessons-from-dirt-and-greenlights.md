@@ -42,4 +42,4 @@ While in rural Africa, McConaughey found one of his musical heroes: Ali Farka To
 > *“Because there I would be dried shit, neither me nor my scent would stick with you.
 > Here, I am wet shit, both me and my scent stick with you.”*
 
-Be wet shit. Leave your scent. What do you have to lose?
+Be wet shit. The dirt is inevitable, but the scent is optional. Optional but encouraged.
