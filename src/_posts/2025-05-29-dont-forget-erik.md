@@ -122,6 +122,16 @@ A couple of days after Erik died, I started writing down memories, things I didn
 </div>
 </div>
 
+<div class="bg-[#fff7eb] border-2 border-[#f7d6ad] px-5 py-0 mb-8 rounded-md shadow-sm mt-5">
+	<p class=" text-3xl mb-2 alt_font mt-2">December 04, 2025</p>
+
+<div class="text-[#a06b28] text-xs leading-loose">
+	<p>Wow, it's Christmastime, and I still cannot believe you are no longer in this world. I put on my Christmas playlist today, and these songs made me sad and miss you. I hope all of these songs we sing about the birth of Jesus really mean something, and you are somewhere else.</p>
+	<p>It's funny but as I wrote this, your favorite, Whitney, came on singing, "Do You Hear What I Hear". It made me feel better. I think it will be my go-to song this year...for you.</p>
+
+</div>
+</div>
+
 <div class="mb-4">
 <hr>
 </div>
