@@ -40,7 +40,7 @@ I’ve reconnected with two female friends this year who are around my age. They
 
 One friend even brought up the presidency. Presidents are older than ever. Women are not in their physical prime in their 60s or 70s like men, so how can we expect a female president? It was a real comment from a real woman struggling with her biology.
 
-## Why Talking About Bodies Became Politicized
+## Talking About Biology Became Politicized
 
 Conversations about gender, womanhood, and identity have become so sensitive that acknowledging biological constraints can be treated as taboo or even oppressive just by bringing them up. Take J.K. Rowling. She has been pulled into heated debates simply for talking about biological sex, but biology has always mattered, and it still does. That’s the reality. Women carry burdens that culture rarely acknowledges.
 
@@ -50,6 +50,6 @@ Our bodies dictate vulnerabilities that men simply don’t experience in the sam
 
 Jordan Peterson is someone I never thought would speak to my female experiences and someone a friend casually described as “ultra conservative”, but he gave me language for my experience as a woman: that my limitations were not imposed by men or by a system holding me down, but by my own biology: cycles, hormones, perimenopause, and the shifts happening inside my body.
 
-## A Call for Honesty
+## A Call for Openness
 
 We need to talk about these realities openly and freely without cultural battles so women can support women, and so men can continue to support women with honesty and compassion.
