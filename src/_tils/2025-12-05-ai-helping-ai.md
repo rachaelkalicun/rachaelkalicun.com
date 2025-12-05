@@ -9,7 +9,7 @@ summary: "Using ChatGPT to streamline my development workflow, create global cus
 
 > **Update:** I wasn’t able to keep most of the detailed instructions shown below because ChatGPT’s global custom instructions field has a strict character limit of 1500. Instead, I started moving the technical and engineering rules into a dedicated custom GPT. That is in progress. I will write a separate post about the process of building the custom GPT, how I structured its knowledge, and what I learned while organizing my workflow around it.
 >
-> Here are the actual Custom Instructions I ended up keeping globally:
+> Here are the actual custom instructions I ended up keeping globally:
 >
 > **Custom Instructions**
 >
