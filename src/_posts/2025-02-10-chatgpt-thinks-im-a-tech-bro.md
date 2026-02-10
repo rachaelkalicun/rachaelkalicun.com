@@ -47,7 +47,7 @@ ChatGPT made two significant mistakes here. First, it chose which traits were im
 
 It also knows my discussions about software are simply a way to bring my mission to life: preserving food traditions, encouraging people to cook, and helping them remember how they were shaped through food and the legacy of others. I think it’s reasonable to say most of the time a woman would be more invested in these concerns than a man.
 
-Second, it had major gender bias representing the traits of someone building software. While I’ve never been someone to get on a soapbox about women in tech, I have to admit the fact that the pictures didn’t look like me at all mattered to me. How do these biases affect someone younger or more impressionable? Someone who isn't confident with their sense of self yet.
+Second, it had major gender bias representing the traits of someone building software. While I’ve never been someone to get on a soapbox about women in tech, I have to admit the fact that the pictures didn’t look like me at all mattered to me. How do these biases affect someone younger or more impressionable, someone who isn't confident with their sense of self yet?
 
 All of this made me remember that these systems carry the same gender bias we live with in real life. They are trained on that data. Still, I naively thought it could do a better job given the varied data it had about me. It couldn’t. It reduced a human, with all its complexity, to a safe, simple, and wrong stereotype.
 
